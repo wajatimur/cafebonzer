@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rhpml majorversion="1" minorversion="0">
+	<windows>
+		<window>
+			<name>NewWindow</name>
+			<caption>CafeBonzer Manual</caption>
+			<tocfile/>
+			<indexfile/>
+			<defaultfile/>
+			<homefile/>
+			<jump1filename/>
+			<jump1text/>
+			<jump2filename/>
+			<jump2text/>
+			<flags>525344</flags>
+			<navpanewidth>0</navpanewidth>
+			<buttons>12294</buttons>
+			<windowplacement>
+				<left>10</left>
+				<top>10</top>
+				<right>810</right>
+				<bottom>610</bottom>
+			</windowplacement>
+			<windowstyle>0</windowstyle>
+			<windowstyleex>0</windowstyleex>
+			<expandedstate>1</expandedstate>
+			<defaulttab>0</defaulttab>
+			<tabposition>0</tabposition>
+			<showwindow>0</showwindow>
+		</window>
+	</windows>
+</rhpml>

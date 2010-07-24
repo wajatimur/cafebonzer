@@ -1,0 +1,566 @@
+<VisualStudioProject>
+    <VisualBasic
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{FF320638-395B-4852-B19B-AD8FAD988873}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = "CafeControl.ico"
+                AssemblyKeyContainerName = ""
+                AssemblyName = "CafeBonzer"
+                AssemblyOriginatorKeyFile = ""
+                AssemblyOriginatorKeyMode = "None"
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "WinExe"
+                OptionCompare = "Binary"
+                OptionExplicit = "On"
+                OptionStrict = "Off"
+                RootNamespace = "CafeBonzer"
+                StartupObject = "CafeBonzer.mApplication"
+            >
+                <Config
+                    Name = "Debug"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "Win32 = True"
+                    DefineDebug = "true"
+                    DefineTrace = "true"
+                    DebugSymbols = "true"
+                    IncrementalBuild = "true"
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+                <Config
+                    Name = "Release"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "Win32 = True"
+                    DefineDebug = "false"
+                    DefineTrace = "true"
+                    DebugSymbols = "false"
+                    IncrementalBuild = "true"
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+                <Reference
+                    Name = "Microsoft.VisualBasic.Compatibility"
+                    AssemblyName = "Microsoft.VisualBasic.Compatibility"
+                />
+                <Reference
+                    Name = "DAO"
+                    Guid = "{00025E01-0000-0000-C000-000000000046}"
+                    VersionMajor = "5"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "VisualSuite1"
+                    Guid = "{7CD0C3B2-0E39-11D7-9363-AC402D28C07B}"
+                    VersionMajor = "1"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "MSComctlLib"
+                    Guid = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}"
+                    VersionMajor = "2"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "AxMSComctlLib"
+                    Guid = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}"
+                    VersionMajor = "2"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "aximp"
+                />
+                <Reference
+                    Name = "SocketWrenchCtrl"
+                    Guid = "{33101C00-75C3-11CF-A8A0-444553540000}"
+                    VersionMajor = "1"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "tlbimp"
+                />
+                <Reference
+                    Name = "AxSocketWrenchCtrl"
+                    Guid = "{33101C00-75C3-11CF-A8A0-444553540000}"
+                    VersionMajor = "1"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "aximp"
+                />
+                <Reference
+                    Name = "AxListViewArray"
+                    AssemblyName = "AxListViewArray"
+                />
+                <Reference
+                    Name = "AxProgressBarArray"
+                    AssemblyName = "AxProgressBarArray"
+                />
+                <Reference
+                    Name = "AxImageComboArray"
+                    AssemblyName = "AxImageComboArray"
+                />
+                <Reference
+                    Name = "AxSocketArray"
+                    AssemblyName = "AxSocketArray"
+                />
+                <Reference
+                    Name = "stdole"
+                    Guid = "{00020430-0000-0000-C000-000000000046}"
+                    VersionMajor = "2"
+                    VersionMinor = "0"
+                    Lcid = "0"
+                    WrapperTool = "primary"
+                />
+            </References>
+            <Imports>
+                <Import Namespace = "Microsoft.VisualBasic" />
+                <Import Namespace = "Microsoft.VisualBasic.Compatibility" />
+                <Import Namespace = "System" />
+                <Import Namespace = "System.Collections" />
+                <Import Namespace = "System.Data" />
+                <Import Namespace = "System.Drawing" />
+                <Import Namespace = "System.Diagnostics" />
+                <Import Namespace = "System.Windows.Forms" />
+            </Imports>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "_UpgradeReport.htm"
+                    SubType = "Preview"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "AssemblyInfo.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "AxImageComboArray.dll"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "AxListViewArray.dll"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "AxProgressBarArray.dll"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "AxSocketArray.dll"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "CafeControl.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "Classes\clsAgentObj.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Classes\clsAgentObjInfo.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Classes\clsAgents.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Classes\clsData.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Classes\clsDataStore.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Classes\clsEventJob.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Classes\clsInfoPrinter.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Classes\clsSpecial.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Classes\clsXdata.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Controls\Label3D.vb"
+                    SubType = "UserControl"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Controls\Label3D.resX"
+                    DependentUpon = "Label3D.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Controls\Label3DArray.vb"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Controls\Line3D.vb"
+                    SubType = "UserControl"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Controls\Line3D.resX"
+                    DependentUpon = "Line3D.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Controls\Line3DArray.vb"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Controls\PageDock.vb"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Controls\PageDock.resX"
+                    DependentUpon = "PageDock.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Controls\PageHolder.vb"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Controls\PageHolder.resX"
+                    DependentUpon = "PageHolder.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Controls\TitleBar.vb"
+                    SubType = "UserControl"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Controls\TitleBar.resX"
+                    DependentUpon = "TitleBar.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Controls\XpButton.vb"
+                    SubType = "UserControl"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Controls\XpButton.resX"
+                    DependentUpon = "XpButton.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Controls\XpButtonArray.vb"
+                    SubType = "Component"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmAbout.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmAbout.resX"
+                    DependentUpon = "FrmAbout.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmAgnInfo.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmAgnInfo.resX"
+                    DependentUpon = "FrmAgnInfo.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmAgnMgr.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmAgnMgr.resX"
+                    DependentUpon = "FrmAgnMgr.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmDbg.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmDbg.resX"
+                    DependentUpon = "FrmDbg.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmDemo.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmDemo.resX"
+                    DependentUpon = "FrmDemo.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmGuna.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmGuna.resX"
+                    DependentUpon = "FrmGuna.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmHarga.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmHarga.resX"
+                    DependentUpon = "FrmHarga.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmHost.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmHost.resX"
+                    DependentUpon = "FrmHost.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmMain.resX"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmMain.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmMesej.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmMesej.resX"
+                    DependentUpon = "FrmMesej.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmPass.resX"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmPass.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmSet.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmSet.resX"
+                    DependentUpon = "FrmSet.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmSplash.resX"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmSplash.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmStat.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmStat.resX"
+                    DependentUpon = "FrmStat.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmTerm.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmTerm.resX"
+                    DependentUpon = "FrmTerm.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Forms\FrmTrans.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Forms\FrmTrans.resX"
+                    DependentUpon = "FrmTrans.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "Modules\gui.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\listv.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\mAgents.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\mDataInfo.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\MdlApi.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\mdlDkey.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\mdlLang.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\mFungsi.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\mPos.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\mSecurity.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\mStat.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\net.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\registry.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\setting.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\str.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\UpgradeSupport.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Modules\utama.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+            </Include>
+        </Files>
+    </VisualBasic>
+</VisualStudioProject>
+

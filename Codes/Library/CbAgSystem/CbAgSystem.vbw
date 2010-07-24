@@ -1,0 +1,12 @@
+CasGenApplication = 54, 94, 809, 538, C
+CasGuiLine = 132, 132, 887, 576, C, 22, 22, 134, 237, C
+CasGuiTitle = 0, 0, 0, 0, C, 66, 66, 821, 510, C
+FrmInput = 132, 175, 887, 619, C, 88, 88, 522, 232, C
+CasGenSubclass = 44, 44, 799, 488, C
+CasGenAPi = 75, 50, 830, 494, C
+CasGenISubclass = 39, 79, 794, 523, C
+CasGenGSubclass = 22, 22, 777, 466, C
+GCbInput = 66, 66, 821, 510, C
+CasGenRegistry = 24, 72, 779, 516, C
+GCbSecurity = 56, 98, 748, 480, 
+FrmPass = 184, 247, 939, 691, C, 88, 88, 424, 308, C

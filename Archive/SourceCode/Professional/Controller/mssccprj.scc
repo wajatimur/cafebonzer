@@ -1,0 +1,9 @@
+SCC=This is a Source Code Control file
+
+[CafeControl.vbp]
+SCC_Aux_Path=E:\VSTUDIO\COMMON\VSS,
+SCC_Project_Name="$/CafeBonzer/CafeControl", FAAAAAAA
+
+[CbSnmMgr.vbp]
+SCC_Project_Name=this project is not under source code control
+SCC_Aux_Path=<This is an empty string for the mssccprj.scc file>

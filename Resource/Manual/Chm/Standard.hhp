@@ -1,0 +1,43 @@
+[OPTIONS]
+Compiled File=Standard.chm
+Title=Standard.xpj
+Contents File=Standard.hhc
+Index File=Standard.hhk
+Default topic=Index.html
+Default Window=NewWindow
+Error log file=
+Display compile progress=No
+Display compile notes=No
+Full-text search=Yes
+Binary Index=No
+Auto Index=No
+Enhanced decompilation=No
+Binary TOC=No
+Flat=No
+Language=0x409 English (United Stated)
+
+[WINDOWS]
+NewWindow="CafeBonzer Manual","Standard.hhc","Standard.hhk","","",,,,,0x80420,0,0x3006,[10,10,810,610],0x0,0x0,,1,0,0
+
+[FILES]
+agent.htm
+control.htm
+intro.html
+faq.htm
+buy.htm
+Index.html
+eHelp.xml
+RoboHHRE.lng
+
+Standard.glo
+Standard.brs
+[ALIAS]
+#include Standard.ali
+
+[MAP]
+#include BSSCDefault.h
+
+[TEXT POPUPS]
+BSSCDefault.h
+
+

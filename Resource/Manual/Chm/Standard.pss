@@ -1,0 +1,58 @@
+[Target:WebHelp Pro]
+ResultFileName=!SSL!\WebHelp_Pro\Standard.htm
+SSLayoutType=32
+ServerProjectName=Standard
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:WebHelp]
+ResultFileName=!SSL!\WebHelp\Standard.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Microsoft HTML Help]
+ResultFileName=Help.chm
+SSLayoutType=1
+CreateProjectTime=14:17, August 20, 2004
+CreateProjectUser=Administrator
+SupportMas_MPJ=1
+ActionID For Generation=1005
+Remove Folder with prompt=1
+ViewFileName=Help.chm
+ResultStatus=0
+BuildTimeHi=29656701
+BuildTimeLow=1868791056
+Enable Result Dialog=1
+[Target:FlashHelp]
+ResultFileName=!SSL!\FlashHelp\Standard.htm
+SSLayoutType=2
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+[Target:Printed Documentation]
+ResultFileName=!SSL!\Printed_Documentation\Standard.doc
+SSLayoutType=7
+[Target:XML Output]
+ResultFileName=!SSL!\XML_Output\Standard.xml
+SSLayoutType=8192
+[PreSingleSource]
+Html Help Project=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard.hhp
+Table Of Content=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard.hhc
+Index=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard_merged$.hhk
+See Also Index=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard.hha
+Browse Sequence=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard.brs
+Topic Properties=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard.trs
+Active Folders=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard.trf
+Baggage Files=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard.trb
+Skin List=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard.trk
+OriginalHhk=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard.hhk
+Active Layout Names=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard.trl
+Default Topic=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Index.html
+Build Tags0=6283;        
+Build Tags=
+Build Expression=
+Language ID=1033
+Language Name=English
+Language=D:\DevProject\CafeBonzer\+Document\Manual\Chm\RoboHHRE.lng
+Stop List=D:\DevProject\CafeBonzer\+Document\Manual\Chm\Standard.stp

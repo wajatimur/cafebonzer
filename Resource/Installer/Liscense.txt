@@ -1,0 +1,70 @@
+This  Nematix Technology  License  Agreement  accompanies the
+CafeBonzer  product  ("Software").  Read  this  agreement  very
+carefully. If you  do not wish  to accept this  agreement, you
+may not legally install or use this Software on your computer.
+
+1. Grant of License. Nematix Technology grants Licensee a non-
+exclusive, non-transferable  license  to use one copy  of the
+Software.
+
+(a)  Evaluation  License.  Licensee may  install  and  use the
+SOFTWARE without charge on an evaluation basis for nine (14)
+days  from the  day that  the Software  was installed  on the
+Licensee's computer. This Evaluation License will expire after
+nine days, a license fee  is required if the Licensee  wants
+to  use  the software  after  the nine days,  otherwise the
+Software must be removed from the computer.
+
+(c) Site License. Licensee may  install and use copies of  the
+Software on an unlimited number of computers which must remain
+under control of  the Licensee. Distributing,  repackaging, or
+reselling of the software to third parties is not allowed.
+
+2.  Copyright.  All  rights  in  the  Software  are  owned  by
+Nematix Technology.  No license  under any  invention, patent,
+copyright, trade secret or other proprietary right is  granted
+by  this  Agreement,   either  directly  or   indirectly.  The
+Software’s  structure,  presentation   and  source  code   are
+valuable trade secrets of Nematix Technology. Licensee  agrees
+that  CafeBonzer   constitutes   proprietary   information  of
+Nematix Technology and  that the  contents of  CafeBonzer are
+copyrighted materials of Nematix Technology.
+
+3.  Restrictions.  Licensee agrees  not  to reverse  engineer,
+decompile, disassemble  or otherwise  attempt to  discover the
+code  and  algorithms  of  the  Software.  In  no  event shall
+Nematix Technology be liable for any damages arising from such
+attempts. Licensee  may not  use the  Software to  perform any
+unauthorized transfer of  information (e.g. transfer  of files
+in  violation  of a  copyright)  or for  any  illegal purpose.
+Licensee  may not  sub-license, rent,  or otherwise  make the
+software available  outside of  the Licensee's  legal business
+entity.
+
+4. Disclaimer  and Limitation  of Liability.  THE SOFTWARE  IS
+PROVIDED "AS IS." NEMATIX TECHNOLOGY MAKES NO  REPRESENTATIONS
+OR  WARRANTIES OF  ANY KIND,  EXPRESS OR  IMPLIED, AS  TO THE
+SOFTWARE OR ITS OPERATION.  TO THE FULL EXTENT  PERMISSIBLE BY
+APPLICABLE LAW, NEMATIX TECHNOLOGY DISCLAIMS ALL  WARRANTIES,
+EXPRESS OR  IMPLIED, INCLUDING,  BUT NOT  LIMITED TO,  IMPLIED
+WARRANTIES  OF MERCHANTABILITY  AND FITNESS  FOR A  PARTICULAR
+PURPOSE, AND ANY WARRANTIES OF NON-INFRINGEMENT.
+
+LIMITATION ON DAMAGES. IN NO EVENT SHALL NEMATIX TECHNOLOGY BE
+LIABLE TO  ANY PARTY  FOR DIRECT,  INDIRECT, SPECIAL  OR OTHER
+CONSEQUENTIAL  OR  INCIDENTAL  DAMAGES  ARISING  DIRECTLY   OR
+INDIRECTLY FROM  THE USE  OF THE  SOFTWARE, INCLUDING  BUT NOT
+LIMITED TO  ANY LOST  PROFITS, BUSINESS  INTERRUPTION, LOSS OF
+PROGRAMS OR OTHER DATA ON YOUR INFORMATION HANDLING SYSTEM  OR
+OTHERWISE,  EVEN  IF  BITBEAMER  SOFTWARE  HAS  BEEN EXPRESSLY
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5. LICENSEE'S USE OF CAFEBONZER ACKNOWLEDGES THAT LICENSEE  HAS
+READ THIS SOFTWARE LICENSE AGREEMENT AND AGREES TO ITS  TERMS.
+IF YOU DO NOT AGREE TO  THE TERMS OF THIS AGREEMENT, YOU  MUST
+REMOVE ALL CAFEBONZER FILES FROM YOUR STORAGE DEVICES AND CEASE
+TO USE THE PRODUCT.
+
+
+enquiry@nematix.net
+Copyright 1996 - 2004 Nematix Technology

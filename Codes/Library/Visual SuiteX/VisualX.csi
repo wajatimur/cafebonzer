@@ -1,0 +1,16 @@
+[History]
+B0=VisualSuiteX/VsGuiXTree
+B1=VisualSuiteX/VsGenApi
+B2=VisualSuiteX/VsGfxTile/pbGetBitmapIntoDC
+B3=VisualSuiteX/GfxXTreeTile
+B4=VisualSuiteX/VsGuiXTree/pSetBackPic
+B5=VisualSuiteX/GfxXTreeTile/VsGenISubclass_MsgResponse
+B6=VisualSuiteX/ISubclass
+B7=VisualSuiteX/MSubclass
+B8=VisualSuiteX/GfxXTreeTile/ISubclass_WindowProc
+B9=VisualSuiteX/GfxXTreeTile/ISubclass_MsgResponse
+B10=VisualSuiteX/clsTile
+B11=VisualSuiteX/GfxPickerColorPalette
+B12=VisualSuiteX/GfxPickerColorPalette/Form_Unload
+B13=VisualSuiteX/GfxPickerColorPalette/Form_MouseMove
+B14=VisualSuiteX/VsGfxPicker/ShowPalette

@@ -1,0 +1,16 @@
+[History]
+B0=CafeBonzerAG/FrmMain
+B1=CafeBonzerAG/MdlSystem/SysShellLock
+B2=CafeBonzerAG/MdlCommand
+B3=CafeBonzerAG/MdlSystem/SysDevDiskClean
+B4=CafeBonzerAG/MdlSystem
+B5=CafeBonzerAG/MdlStrMathDate/ValidateIP
+B6=CafeBonzerAG/MdlStrMathDate
+B7=CafeBonzerAG/MdlSecurity/SecCheckPassword
+B8=CafeBonzerAG/MdlSecurity
+B9=CafeBonzerAG/MdlNetwork
+B10=CafeBonzerAG/MdlLanguage
+B11=CafeBonzerAG/MdlInterface/PutOnTop
+B12=CafeBonzerAG/MdlInterface/GetClass
+B13=CafeBonzerAG/MdlInterface/EnableGroup
+B14=CafeBonzerAG/MdlInterface

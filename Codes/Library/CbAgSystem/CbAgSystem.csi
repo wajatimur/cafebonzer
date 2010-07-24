@@ -1,0 +1,16 @@
+[History]
+B0=CbAgSystem/FrmPass/Form_Load
+B1=CbAgSystem/FrmPass
+B2=CbAgSystem/GCbSecurity/GetPass
+B3=CbAgSystem/GCbSecurity
+B4=CbAgSystem/CasGenApplication/ErrHand
+B5=CbAgSystem/CasGenRegistry/SaveBinary
+B6=CbAgSystem/CasGenRegistry/GetBinary
+B7=CbAgSystem/CasGenRegistry
+B8=CbAgSystem/IHookWindows
+B9=CbAgSystem/CasHookWin
+B10=CbAgSystem/CasGenProc/ProcLowLevelKeyboard1
+B11=CbAgSystem/GCbInput
+B12=CbAgSystem/FrmInput
+B13=CbAgSystem/CasGenProc
+B14=CbAgSystem/MdlProcedure/ProcLowLevelKeyboard1

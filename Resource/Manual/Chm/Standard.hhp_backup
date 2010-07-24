@@ -1,0 +1,39 @@
+[OPTIONS]
+Binary Index=No
+Display compile progress=No
+Compatibility=1.1 Or later
+Compiled file=Standard.chm
+Contents file=Standard.hhc
+Index file=
+Language=0x409 English (United Stated)
+Default Window=Default
+Default topic=Index.html
+
+[WINDOWS]
+Default="CafeBonzer Manual","Standard.hhc","",,,,,,,0x40420,,0x104E,[0,0,450,350],0x10870000,,,,,,
+
+[FILES]
+Index.html
+buy.htm
+faq.htm
+intro.html
+control.htm
+agent.htm
+
+[ALIAS]
+IDH_ID1=Index.html
+IDH_ID2=buy.htm
+IDH_ID3=faq.htm
+IDH_ID5=intro.html
+IDH_ID6=control.htm
+IDH_ID7=agent.htm
+
+
+[MAP]
+#define IDH_ID1 1
+#define IDH_ID2 2
+#define IDH_ID3 3
+#define IDH_ID5 5
+#define IDH_ID6 6
+#define IDH_ID7 7
+

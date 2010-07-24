@@ -1,0 +1,33 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+  <param name="SiteType" value="toc">
+  <param name="Window Styles" value="0x1201">
+</object>
+<ul>
+  <li><object type="text/sitemap">
+    <param name="Name" value="CafeBonzer">
+    <param name="Local" value="Index.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Purchase">
+    <param name="Local" value="buy.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="FAQ">
+    <param name="Local" value="faq.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Introduction">
+    <param name="Local" value="intro.html">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Server">
+    <param name="Local" value="control.htm">
+  </object>
+  <li><object type="text/sitemap">
+    <param name="Name" value="Client">
+    <param name="Local" value="agent.htm">
+  </object>
+</ul>
+</html>

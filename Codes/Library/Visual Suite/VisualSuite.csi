@@ -1,0 +1,16 @@
+[History]
+B0=VisualSuite/VsSecurity/GetPass
+B1=VisualSuite/MSuite
+B2=VisualSuite/FrmPass/Form_Load
+B3=VisualSuite/VsSecurity/CheckPass
+B4=VisualSuite/VsSecurity
+B5=VisualSuite/FrmPass
+B6=VisualSuite/FrmInput
+B7=VisualSuite/ISubclass
+B8=VisualSuite/IDiskKey
+B9=VisualSuite/GSubclass
+B10=VisualSuite/VsIconMenu/ISubclass_WindowProc
+B11=VisualSuite/VsIconMenu
+B12=VisualSuite/VsFormSize/InitWindow
+B13=VisualSuite/VsIconMenu/Attach
+B14=VisualSuite/VsFormSize/ISubclass_MsgResponse

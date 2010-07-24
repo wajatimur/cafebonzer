@@ -1,0 +1,17 @@
+MSubclass = 66, 66, 821, 510, C
+cDottedBrush = 0, 0, 755, 444, C
+ISubclass = 66, 66, 824, 510, C
+VsIconMenu = 90, 64, 848, 508, C
+cMemDC = 110, 110, 865, 554, C
+cNCMetrics = 198, 198, 953, 642, C
+VsInput = 9, 82, 768, 570, C
+IDiskKey = 112, 137, 841, 545, C
+VsSecurity = 39, 42, 895, 538, C
+uLine3D = 198, 198, 953, 642, C, 154, 154, 912, 598, C
+TitleBar = 66, 66, 824, 510, C, 40, 155, 492, 246, C
+MSuite = 87, 216, 845, 660, C
+MdlDiskKey = 40, 93, 933, 589, C
+MdlData = 88, 88, 843, 532, C
+FrmInput = 110, 110, 868, 554, C, 138, 47, 547, 218, C
+FrmPass = 65, 132, 820, 576, C, 154, 259, 491, 480, C
+GSubclass = 108, 87, 863, 531, C

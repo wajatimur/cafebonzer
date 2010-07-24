@@ -1,0 +1,22 @@
+[History]
+B0=CafeBonzerAG/FrmMain
+B1=CafeBonzerAG/mdlSetting/SetGet
+B2=CafeBonzerAG/mdlEnkrip/Crypt
+B3=CafeBonzerAG/mdlTicker/GetTaskBarEdge
+B4=CafeBonzerAG/mdlCommand/SubBuild
+B5=CafeBonzerAG/mdlCommand/CmdName
+B6=CafeBonzerAG/mAplikasi
+B7=CafeBonzerAG/mdlIO
+B8=CafeBonzerAG/mdlTicker
+B9=CafeBonzerAG/FrmTicker/tmrTicker_Timer
+B10=CafeBonzerAG/FrmTicker
+B11=CafeBonzerAG/mdlSystem/DisableCtlAltDel
+B12=CafeBonzerAG/mdlSystem/MyName
+B13=CafeBonzerAG/mdlSystem/MyNameSet
+B14=CafeBonzerAG/mdlSystem/GetMACAddress
+N0=CafeBonzerAG/mdlSystem
+
+[TaskList]
+0=27   Migrate to Catalyst Winsock5    3276812   successfully21   23/11/2002 3:14:56 PM1    1
+1=26   add encryption - send data1    025   using blowfish encryption21   24/11/2002 8:56:19 PM1    0
+2=25   add encryption - settings3    25525   using blowfish encryption21   24/11/2002 8:56:52 PM1    0

@@ -1,0 +1,13 @@
+XLib = 116, 152, 889, 642, C
+uLine3D = 0, 0, 0, 0, C, 88, 88, 846, 532, C
+TitleBar = 110, 110, 868, 554, C, 95, 86, 853, 530, C
+XLInput = 44, 44, 802, 488, C
+FrmInput = 0, 0, 0, 0, C, 48, 67, 521, 248, C
+XLMonitoring = 25, 25, 901, 577, C
+MApi = 130, 58, 888, 502, C
+MTimer = 0, 0, 758, 444, C
+XLTimer = 22, 22, 780, 466, C
+ISubclass = 110, 110, 868, 554, C
+GSubclass = 132, 132, 890, 576, C
+MSubclass = 21, 94, 779, 538, C
+CTimer = 0, 0, 0, 0, C

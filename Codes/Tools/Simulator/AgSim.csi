@@ -1,0 +1,16 @@
+[History]
+B0=CafeBonzerAGSim/mdlMonitoring/MonApp
+B1=CafeBonzerAGSim/mdlMonitoring/MonResource
+B2=CafeBonzerAGSim/mdlCommand/CmdName
+B3=CafeBonzerAGSim/mdlCommand/CmdParse
+B4=CafeBonzerAGSim/mdlCommand
+B5=CafeBonzerAGSim/mdlMonitoring/MonPrinter
+B6=CafeBonzerAGSim/FrmHost/Socket_Connect
+B7=CafeBonzerAGSim/mdlNet/NetSend
+B8=CafeBonzerAGSim/FrmHost/Socket_Disconnect
+B9=CafeBonzerAGSim/mdlNet/NetConnect
+B10=CafeBonzerAGSim/FrmHost/Connecter_Timer
+B11=CafeBonzerAGSim/FrmHost/Socket_Read
+B12=CafeBonzerAGSim/FrmHost/Monitor_Timer
+B13=CafeBonzerAGSim/FrmHost/Pinger_Timer
+B14=CafeBonzerAGSim/mdlCommand/FncScreenOff

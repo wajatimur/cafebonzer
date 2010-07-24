@@ -1,0 +1,3789 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rhpml majorversion="1" minorversion="0">
+	<fontsets>
+		<fontset>
+			<name>Marlett</name>
+			<fontlist>Marlett</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial</name>
+			<fontlist>Arial</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial CE</name>
+			<fontlist>Arial CE</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial CYR</name>
+			<fontlist>Arial CYR</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial Greek</name>
+			<fontlist>Arial Greek</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial TUR</name>
+			<fontlist>Arial TUR</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial Baltic</name>
+			<fontlist>Arial Baltic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New</name>
+			<fontlist>Courier New</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New CE</name>
+			<fontlist>Courier New CE</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New CYR</name>
+			<fontlist>Courier New CYR</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New Greek</name>
+			<fontlist>Courier New Greek</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New TUR</name>
+			<fontlist>Courier New TUR</fontlist>
+		</fontset>
+		<fontset>
+			<name>Courier New Baltic</name>
+			<fontlist>Courier New Baltic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Lucida Console</name>
+			<fontlist>Lucida Console</fontlist>
+		</fontset>
+		<fontset>
+			<name>Lucida Sans Unicode</name>
+			<fontlist>Lucida Sans Unicode</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman</name>
+			<fontlist>Times New Roman</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman CE</name>
+			<fontlist>Times New Roman CE</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman CYR</name>
+			<fontlist>Times New Roman CYR</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman Greek</name>
+			<fontlist>Times New Roman Greek</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman TUR</name>
+			<fontlist>Times New Roman TUR</fontlist>
+		</fontset>
+		<fontset>
+			<name>Times New Roman Baltic</name>
+			<fontlist>Times New Roman Baltic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Wingdings</name>
+			<fontlist>Wingdings</fontlist>
+		</fontset>
+		<fontset>
+			<name>Symbol</name>
+			<fontlist>Symbol</fontlist>
+		</fontset>
+		<fontset>
+			<name>Verdana</name>
+			<fontlist>Verdana</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial Black</name>
+			<fontlist>Arial Black</fontlist>
+		</fontset>
+		<fontset>
+			<name>Comic Sans MS</name>
+			<fontlist>Comic Sans MS</fontlist>
+		</fontset>
+		<fontset>
+			<name>Impact</name>
+			<fontlist>Impact</fontlist>
+		</fontset>
+		<fontset>
+			<name>Georgia</name>
+			<fontlist>Georgia</fontlist>
+		</fontset>
+		<fontset>
+			<name>Franklin Gothic Medium</name>
+			<fontlist>Franklin Gothic Medium</fontlist>
+		</fontset>
+		<fontset>
+			<name>Palatino Linotype</name>
+			<fontlist>Palatino Linotype</fontlist>
+		</fontset>
+		<fontset>
+			<name>Tahoma</name>
+			<fontlist>Tahoma</fontlist>
+		</fontset>
+		<fontset>
+			<name>Trebuchet MS</name>
+			<fontlist>Trebuchet MS</fontlist>
+		</fontset>
+		<fontset>
+			<name>Webdings</name>
+			<fontlist>Webdings</fontlist>
+		</fontset>
+		<fontset>
+			<name>Estrangelo Edessa</name>
+			<fontlist>Estrangelo Edessa</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gautami</name>
+			<fontlist>Gautami</fontlist>
+		</fontset>
+		<fontset>
+			<name>Latha</name>
+			<fontlist>Latha</fontlist>
+		</fontset>
+		<fontset>
+			<name>Mangal</name>
+			<fontlist>Mangal</fontlist>
+		</fontset>
+		<fontset>
+			<name>MV Boli</name>
+			<fontlist>MV Boli</fontlist>
+		</fontset>
+		<fontset>
+			<name>Raavi</name>
+			<fontlist>Raavi</fontlist>
+		</fontset>
+		<fontset>
+			<name>Shruti</name>
+			<fontlist>Shruti</fontlist>
+		</fontset>
+		<fontset>
+			<name>Tunga</name>
+			<fontlist>Tunga</fontlist>
+		</fontset>
+		<fontset>
+			<name>Sylfaen</name>
+			<fontlist>Sylfaen</fontlist>
+		</fontset>
+		<fontset>
+			<name>Microsoft Sans Serif</name>
+			<fontlist>Microsoft Sans Serif</fontlist>
+		</fontset>
+		<fontset>
+			<name>AngsanaUPC</name>
+			<fontlist>AngsanaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angsana New</name>
+			<fontlist>Angsana New</fontlist>
+		</fontset>
+		<fontset>
+			<name>BrowalliaUPC</name>
+			<fontlist>BrowalliaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Browallia New</name>
+			<fontlist>Browallia New</fontlist>
+		</fontset>
+		<fontset>
+			<name>CordiaUPC</name>
+			<fontlist>CordiaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Cordia New</name>
+			<fontlist>Cordia New</fontlist>
+		</fontset>
+		<fontset>
+			<name>DilleniaUPC</name>
+			<fontlist>DilleniaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>EucrosiaUPC</name>
+			<fontlist>EucrosiaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>FreesiaUPC</name>
+			<fontlist>FreesiaUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>IrisUPC</name>
+			<fontlist>IrisUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>JasmineUPC</name>
+			<fontlist>JasmineUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>KodchiangUPC</name>
+			<fontlist>KodchiangUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>LilyUPC</name>
+			<fontlist>LilyUPC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aharoni</name>
+			<fontlist>Aharoni</fontlist>
+		</fontset>
+		<fontset>
+			<name>David</name>
+			<fontlist>David</fontlist>
+		</fontset>
+		<fontset>
+			<name>David Transparent</name>
+			<fontlist>David Transparent</fontlist>
+		</fontset>
+		<fontset>
+			<name>FrankRuehl</name>
+			<fontlist>FrankRuehl</fontlist>
+		</fontset>
+		<fontset>
+			<name>Levenim MT</name>
+			<fontlist>Levenim MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Miriam</name>
+			<fontlist>Miriam</fontlist>
+		</fontset>
+		<fontset>
+			<name>Miriam Transparent</name>
+			<fontlist>Miriam Transparent</fontlist>
+		</fontset>
+		<fontset>
+			<name>Miriam Fixed</name>
+			<fontlist>Miriam Fixed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Fixed Miriam Transparent</name>
+			<fontlist>Fixed Miriam Transparent</fontlist>
+		</fontset>
+		<fontset>
+			<name>Narkisim</name>
+			<fontlist>Narkisim</fontlist>
+		</fontset>
+		<fontset>
+			<name>Rod</name>
+			<fontlist>Rod</fontlist>
+		</fontset>
+		<fontset>
+			<name>Rod Transparent</name>
+			<fontlist>Rod Transparent</fontlist>
+		</fontset>
+		<fontset>
+			<name>Traditional Arabic</name>
+			<fontlist>Traditional Arabic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arabic Transparent</name>
+			<fontlist>Arabic Transparent</fontlist>
+		</fontset>
+		<fontset>
+			<name>Andalus</name>
+			<fontlist>Andalus</fontlist>
+		</fontset>
+		<fontset>
+			<name>Simplified Arabic</name>
+			<fontlist>Simplified Arabic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Simplified Arabic Fixed</name>
+			<fontlist>Simplified Arabic Fixed</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS Mincho</name>
+			<fontlist>MS Mincho</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MS Mincho</name>
+			<fontlist>@MS Mincho</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS PMincho</name>
+			<fontlist>MS PMincho</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MS PMincho</name>
+			<fontlist>@MS PMincho</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS Gothic</name>
+			<fontlist>MS Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MS Gothic</name>
+			<fontlist>@MS Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS PGothic</name>
+			<fontlist>MS PGothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MS PGothic</name>
+			<fontlist>@MS PGothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS UI Gothic</name>
+			<fontlist>MS UI Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MS UI Gothic</name>
+			<fontlist>@MS UI Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gulim</name>
+			<fontlist>Gulim</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Gulim</name>
+			<fontlist>@Gulim</fontlist>
+		</fontset>
+		<fontset>
+			<name>GulimChe</name>
+			<fontlist>GulimChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>@GulimChe</name>
+			<fontlist>@GulimChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>Dotum</name>
+			<fontlist>Dotum</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Dotum</name>
+			<fontlist>@Dotum</fontlist>
+		</fontset>
+		<fontset>
+			<name>DotumChe</name>
+			<fontlist>DotumChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>@DotumChe</name>
+			<fontlist>@DotumChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>Batang</name>
+			<fontlist>Batang</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Batang</name>
+			<fontlist>@Batang</fontlist>
+		</fontset>
+		<fontset>
+			<name>BatangChe</name>
+			<fontlist>BatangChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>@BatangChe</name>
+			<fontlist>@BatangChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gungsuh</name>
+			<fontlist>Gungsuh</fontlist>
+		</fontset>
+		<fontset>
+			<name>@Gungsuh</name>
+			<fontlist>@Gungsuh</fontlist>
+		</fontset>
+		<fontset>
+			<name>GungsuhChe</name>
+			<fontlist>GungsuhChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>@GungsuhChe</name>
+			<fontlist>@GungsuhChe</fontlist>
+		</fontset>
+		<fontset>
+			<name>SimSun</name>
+			<fontlist>SimSun</fontlist>
+		</fontset>
+		<fontset>
+			<name>@SimSun</name>
+			<fontlist>@SimSun</fontlist>
+		</fontset>
+		<fontset>
+			<name>NSimSun</name>
+			<fontlist>NSimSun</fontlist>
+		</fontset>
+		<fontset>
+			<name>@NSimSun</name>
+			<fontlist>@NSimSun</fontlist>
+		</fontset>
+		<fontset>
+			<name>SimHei</name>
+			<fontlist>SimHei</fontlist>
+		</fontset>
+		<fontset>
+			<name>@SimHei</name>
+			<fontlist>@SimHei</fontlist>
+		</fontset>
+		<fontset>
+			<name>MingLiU</name>
+			<fontlist>MingLiU</fontlist>
+		</fontset>
+		<fontset>
+			<name>@MingLiU</name>
+			<fontlist>@MingLiU</fontlist>
+		</fontset>
+		<fontset>
+			<name>PMingLiU</name>
+			<fontlist>PMingLiU</fontlist>
+		</fontset>
+		<fontset>
+			<name>@PMingLiU</name>
+			<fontlist>@PMingLiU</fontlist>
+		</fontset>
+		<fontset>
+			<name>Agency FB</name>
+			<fontlist>Agency FB</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial Narrow</name>
+			<fontlist>Arial Narrow</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arial Rounded MT Bold</name>
+			<fontlist>Arial Rounded MT Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blackadder ITC</name>
+			<fontlist>Blackadder ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bodoni MT</name>
+			<fontlist>Bodoni MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bodoni MT Black</name>
+			<fontlist>Bodoni MT Black</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bodoni MT Condensed</name>
+			<fontlist>Bodoni MT Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Book Antiqua</name>
+			<fontlist>Book Antiqua</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bookman Old Style</name>
+			<fontlist>Bookman Old Style</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bradley Hand ITC</name>
+			<fontlist>Bradley Hand ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Calisto MT</name>
+			<fontlist>Calisto MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Castellar</name>
+			<fontlist>Castellar</fontlist>
+		</fontset>
+		<fontset>
+			<name>Century Gothic</name>
+			<fontlist>Century Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Century Schoolbook</name>
+			<fontlist>Century Schoolbook</fontlist>
+		</fontset>
+		<fontset>
+			<name>Copperplate Gothic Bold</name>
+			<fontlist>Copperplate Gothic Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Copperplate Gothic Light</name>
+			<fontlist>Copperplate Gothic Light</fontlist>
+		</fontset>
+		<fontset>
+			<name>Curlz MT</name>
+			<fontlist>Curlz MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Edwardian Script ITC</name>
+			<fontlist>Edwardian Script ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Elephant</name>
+			<fontlist>Elephant</fontlist>
+		</fontset>
+		<fontset>
+			<name>Engravers MT</name>
+			<fontlist>Engravers MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Eras Bold ITC</name>
+			<fontlist>Eras Bold ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Eras Demi ITC</name>
+			<fontlist>Eras Demi ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Eras Light ITC</name>
+			<fontlist>Eras Light ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Eras Medium ITC</name>
+			<fontlist>Eras Medium ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Felix Titling</name>
+			<fontlist>Felix Titling</fontlist>
+		</fontset>
+		<fontset>
+			<name>Forte</name>
+			<fontlist>Forte</fontlist>
+		</fontset>
+		<fontset>
+			<name>Franklin Gothic Book</name>
+			<fontlist>Franklin Gothic Book</fontlist>
+		</fontset>
+		<fontset>
+			<name>Franklin Gothic Demi</name>
+			<fontlist>Franklin Gothic Demi</fontlist>
+		</fontset>
+		<fontset>
+			<name>Franklin Gothic Demi Cond</name>
+			<fontlist>Franklin Gothic Demi Cond</fontlist>
+		</fontset>
+		<fontset>
+			<name>Franklin Gothic Heavy</name>
+			<fontlist>Franklin Gothic Heavy</fontlist>
+		</fontset>
+		<fontset>
+			<name>Franklin Gothic Medium Cond</name>
+			<fontlist>Franklin Gothic Medium Cond</fontlist>
+		</fontset>
+		<fontset>
+			<name>French Script MT</name>
+			<fontlist>French Script MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Garamond</name>
+			<fontlist>Garamond</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gigi</name>
+			<fontlist>Gigi</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gill Sans MT Ext Condensed Bold</name>
+			<fontlist>Gill Sans MT Ext Condensed Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gill Sans MT</name>
+			<fontlist>Gill Sans MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gill Sans MT Condensed</name>
+			<fontlist>Gill Sans MT Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gill Sans Ultra Bold</name>
+			<fontlist>Gill Sans Ultra Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gill Sans Ultra Bold Condensed</name>
+			<fontlist>Gill Sans Ultra Bold Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Gloucester MT Extra Condensed</name>
+			<fontlist>Gloucester MT Extra Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Goudy Old Style</name>
+			<fontlist>Goudy Old Style</fontlist>
+		</fontset>
+		<fontset>
+			<name>Goudy Stout</name>
+			<fontlist>Goudy Stout</fontlist>
+		</fontset>
+		<fontset>
+			<name>Haettenschweiler</name>
+			<fontlist>Haettenschweiler</fontlist>
+		</fontset>
+		<fontset>
+			<name>Imprint MT Shadow</name>
+			<fontlist>Imprint MT Shadow</fontlist>
+		</fontset>
+		<fontset>
+			<name>Lucida Sans</name>
+			<fontlist>Lucida Sans</fontlist>
+		</fontset>
+		<fontset>
+			<name>Lucida Sans Typewriter</name>
+			<fontlist>Lucida Sans Typewriter</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS Outlook</name>
+			<fontlist>MS Outlook</fontlist>
+		</fontset>
+		<fontset>
+			<name>Maiandra GD</name>
+			<fontlist>Maiandra GD</fontlist>
+		</fontset>
+		<fontset>
+			<name>Monotype Corsiva</name>
+			<fontlist>Monotype Corsiva</fontlist>
+		</fontset>
+		<fontset>
+			<name>OCR A Extended</name>
+			<fontlist>OCR A Extended</fontlist>
+		</fontset>
+		<fontset>
+			<name>Palace Script MT</name>
+			<fontlist>Palace Script MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Papyrus</name>
+			<fontlist>Papyrus</fontlist>
+		</fontset>
+		<fontset>
+			<name>Perpetua</name>
+			<fontlist>Perpetua</fontlist>
+		</fontset>
+		<fontset>
+			<name>Perpetua Titling MT</name>
+			<fontlist>Perpetua Titling MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Pristina</name>
+			<fontlist>Pristina</fontlist>
+		</fontset>
+		<fontset>
+			<name>Rage Italic</name>
+			<fontlist>Rage Italic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Rockwell</name>
+			<fontlist>Rockwell</fontlist>
+		</fontset>
+		<fontset>
+			<name>Rockwell Condensed</name>
+			<fontlist>Rockwell Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Rockwell Extra Bold</name>
+			<fontlist>Rockwell Extra Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Script MT Bold</name>
+			<fontlist>Script MT Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Tw Cen MT</name>
+			<fontlist>Tw Cen MT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Tw Cen MT Condensed</name>
+			<fontlist>Tw Cen MT Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Wingdings 2</name>
+			<fontlist>Wingdings 2</fontlist>
+		</fontset>
+		<fontset>
+			<name>Wingdings 3</name>
+			<fontlist>Wingdings 3</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bookshelf Symbol 7</name>
+			<fontlist>Bookshelf Symbol 7</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS Reference Sans Serif</name>
+			<fontlist>MS Reference Sans Serif</fontlist>
+		</fontset>
+		<fontset>
+			<name>MS Reference Specialty</name>
+			<fontlist>MS Reference Specialty</fontlist>
+		</fontset>
+		<fontset>
+			<name>Tw Cen MT Condensed Extra Bold</name>
+			<fontlist>Tw Cen MT Condensed Extra Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Neuropol</name>
+			<fontlist>Neuropol</fontlist>
+		</fontset>
+		<fontset>
+			<name>MT Extra</name>
+			<fontlist>MT Extra</fontlist>
+		</fontset>
+		<fontset>
+			<name>BankGothic Lt BT</name>
+			<fontlist>BankGothic Lt BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>BankGothic Md BT</name>
+			<fontlist>BankGothic Md BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>CityBlueprint</name>
+			<fontlist>CityBlueprint</fontlist>
+		</fontset>
+		<fontset>
+			<name>CommercialPi BT</name>
+			<fontlist>CommercialPi BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Complex</name>
+			<fontlist>Complex</fontlist>
+		</fontset>
+		<fontset>
+			<name>CommercialScript BT</name>
+			<fontlist>CommercialScript BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>CountryBlueprint</name>
+			<fontlist>CountryBlueprint</fontlist>
+		</fontset>
+		<fontset>
+			<name>Dutch801 Rm BT</name>
+			<fontlist>Dutch801 Rm BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Dutch801 XBd BT</name>
+			<fontlist>Dutch801 XBd BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>EuroRoman</name>
+			<fontlist>EuroRoman</fontlist>
+		</fontset>
+		<fontset>
+			<name>GDT</name>
+			<fontlist>GDT</fontlist>
+		</fontset>
+		<fontset>
+			<name>GothicE</name>
+			<fontlist>GothicE</fontlist>
+		</fontset>
+		<fontset>
+			<name>GothicG</name>
+			<fontlist>GothicG</fontlist>
+		</fontset>
+		<fontset>
+			<name>GothicI</name>
+			<fontlist>GothicI</fontlist>
+		</fontset>
+		<fontset>
+			<name>GreekC</name>
+			<fontlist>GreekC</fontlist>
+		</fontset>
+		<fontset>
+			<name>GreekS</name>
+			<fontlist>GreekS</fontlist>
+		</fontset>
+		<fontset>
+			<name>ISOCP2</name>
+			<fontlist>ISOCP2</fontlist>
+		</fontset>
+		<fontset>
+			<name>ISOCP3</name>
+			<fontlist>ISOCP3</fontlist>
+		</fontset>
+		<fontset>
+			<name>ISOCP</name>
+			<fontlist>ISOCP</fontlist>
+		</fontset>
+		<fontset>
+			<name>ISOCT2</name>
+			<fontlist>ISOCT2</fontlist>
+		</fontset>
+		<fontset>
+			<name>ISOCT3</name>
+			<fontlist>ISOCT3</fontlist>
+		</fontset>
+		<fontset>
+			<name>ISOCT</name>
+			<fontlist>ISOCT</fontlist>
+		</fontset>
+		<fontset>
+			<name>ItalicC</name>
+			<fontlist>ItalicC</fontlist>
+		</fontset>
+		<fontset>
+			<name>ItalicT</name>
+			<fontlist>ItalicT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Italic</name>
+			<fontlist>Italic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Monospac821 BT</name>
+			<fontlist>Monospac821 BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Monotxt</name>
+			<fontlist>Monotxt</fontlist>
+		</fontset>
+		<fontset>
+			<name>Proxy 1</name>
+			<fontlist>Proxy 1</fontlist>
+		</fontset>
+		<fontset>
+			<name>Proxy 2</name>
+			<fontlist>Proxy 2</fontlist>
+		</fontset>
+		<fontset>
+			<name>Proxy 3</name>
+			<fontlist>Proxy 3</fontlist>
+		</fontset>
+		<fontset>
+			<name>Proxy 4</name>
+			<fontlist>Proxy 4</fontlist>
+		</fontset>
+		<fontset>
+			<name>Proxy 5</name>
+			<fontlist>Proxy 5</fontlist>
+		</fontset>
+		<fontset>
+			<name>Proxy 6</name>
+			<fontlist>Proxy 6</fontlist>
+		</fontset>
+		<fontset>
+			<name>Proxy 7</name>
+			<fontlist>Proxy 7</fontlist>
+		</fontset>
+		<fontset>
+			<name>Proxy 8</name>
+			<fontlist>Proxy 8</fontlist>
+		</fontset>
+		<fontset>
+			<name>Proxy 9</name>
+			<fontlist>Proxy 9</fontlist>
+		</fontset>
+		<fontset>
+			<name>PanRoman</name>
+			<fontlist>PanRoman</fontlist>
+		</fontset>
+		<fontset>
+			<name>Romantic</name>
+			<fontlist>Romantic</fontlist>
+		</fontset>
+		<fontset>
+			<name>RomanC</name>
+			<fontlist>RomanC</fontlist>
+		</fontset>
+		<fontset>
+			<name>RomanD</name>
+			<fontlist>RomanD</fontlist>
+		</fontset>
+		<fontset>
+			<name>RomanS</name>
+			<fontlist>RomanS</fontlist>
+		</fontset>
+		<fontset>
+			<name>RomanT</name>
+			<fontlist>RomanT</fontlist>
+		</fontset>
+		<fontset>
+			<name>SansSerif</name>
+			<fontlist>SansSerif</fontlist>
+		</fontset>
+		<fontset>
+			<name>ScriptC</name>
+			<fontlist>ScriptC</fontlist>
+		</fontset>
+		<fontset>
+			<name>ScriptS</name>
+			<fontlist>ScriptS</fontlist>
+		</fontset>
+		<fontset>
+			<name>Simplex</name>
+			<fontlist>Simplex</fontlist>
+		</fontset>
+		<fontset>
+			<name>Stylus BT</name>
+			<fontlist>Stylus BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>SuperFrench</name>
+			<fontlist>SuperFrench</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 BT</name>
+			<fontlist>Swis721 BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 BdOul BT</name>
+			<fontlist>Swis721 BdOul BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 Cn BT</name>
+			<fontlist>Swis721 Cn BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 BdCnOul BT</name>
+			<fontlist>Swis721 BdCnOul BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 BlkCn BT</name>
+			<fontlist>Swis721 BlkCn BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 LtCn BT</name>
+			<fontlist>Swis721 LtCn BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 Ex BT</name>
+			<fontlist>Swis721 Ex BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 BlkEx BT</name>
+			<fontlist>Swis721 BlkEx BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 LtEx BT</name>
+			<fontlist>Swis721 LtEx BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 Blk BT</name>
+			<fontlist>Swis721 Blk BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 BlkOul BT</name>
+			<fontlist>Swis721 BlkOul BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Swis721 Lt BT</name>
+			<fontlist>Swis721 Lt BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Syastro</name>
+			<fontlist>Syastro</fontlist>
+		</fontset>
+		<fontset>
+			<name>Symap</name>
+			<fontlist>Symap</fontlist>
+		</fontset>
+		<fontset>
+			<name>Symath</name>
+			<fontlist>Symath</fontlist>
+		</fontset>
+		<fontset>
+			<name>Symeteo</name>
+			<fontlist>Symeteo</fontlist>
+		</fontset>
+		<fontset>
+			<name>Symusic</name>
+			<fontlist>Symusic</fontlist>
+		</fontset>
+		<fontset>
+			<name>TechnicBold</name>
+			<fontlist>TechnicBold</fontlist>
+		</fontset>
+		<fontset>
+			<name>TechnicLite</name>
+			<fontlist>TechnicLite</fontlist>
+		</fontset>
+		<fontset>
+			<name>Technic</name>
+			<fontlist>Technic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Txt</name>
+			<fontlist>Txt</fontlist>
+		</fontset>
+		<fontset>
+			<name>UniversalMath1 BT</name>
+			<fontlist>UniversalMath1 BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Vineta BT</name>
+			<fontlist>Vineta BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>10 Minutes</name>
+			<fontlist>10 Minutes</fontlist>
+		</fontset>
+		<fontset>
+			<name>101 Puppies SW</name>
+			<fontlist>101 Puppies SW</fontlist>
+		</fontset>
+		<fontset>
+			<name>123 and...</name>
+			<fontlist>123 and...</fontlist>
+		</fontset>
+		<fontset>
+			<name>12SaruYellowFog</name>
+			<fontlist>12SaruYellowFog</fontlist>
+		</fontset>
+		<fontset>
+			<name>13_Fletcher</name>
+			<fontlist>13_Fletcher</fontlist>
+		</fontset>
+		<fontset>
+			<name>13_Misa</name>
+			<fontlist>13_Misa</fontlist>
+		</fontset>
+		<fontset>
+			<name>13_Roshi</name>
+			<fontlist>13_Roshi</fontlist>
+		</fontset>
+		<fontset>
+			<name>18thCentury</name>
+			<fontlist>18thCentury</fontlist>
+		</fontset>
+		<fontset>
+			<name>1979</name>
+			<fontlist>1979</fontlist>
+		</fontset>
+		<fontset>
+			<name>1st Sortie</name>
+			<fontlist>1st Sortie</fontlist>
+		</fontset>
+		<fontset>
+			<name>200proofmoonshine</name>
+			<fontlist>200proofmoonshine</fontlist>
+		</fontset>
+		<fontset>
+			<name>20th Century Font</name>
+			<fontlist>20th Century Font</fontlist>
+		</fontset>
+		<fontset>
+			<name>256 Bytes</name>
+			<fontlist>256 Bytes</fontlist>
+		</fontset>
+		<fontset>
+			<name>2Tech</name>
+			<fontlist>2Tech</fontlist>
+		</fontset>
+		<fontset>
+			<name>3 of 9 Barcode</name>
+			<fontlist>3 of 9 Barcode</fontlist>
+		</fontset>
+		<fontset>
+			<name>3 Prong Tree</name>
+			<fontlist>3 Prong Tree</fontlist>
+		</fontset>
+		<fontset>
+			<name>3000</name>
+			<fontlist>3000</fontlist>
+		</fontset>
+		<fontset>
+			<name>309</name>
+			<fontlist>309</fontlist>
+		</fontset>
+		<fontset>
+			<name>32768 NO</name>
+			<fontlist>32768 NO</fontlist>
+		</fontset>
+		<fontset>
+			<name>37 Kilobyte</name>
+			<fontlist>37 Kilobyte</fontlist>
+		</fontset>
+		<fontset>
+			<name>39 Smooth</name>
+			<fontlist>39 Smooth</fontlist>
+		</fontset>
+		<fontset>
+			<name>4 Star Face Font</name>
+			<fontlist>4 Star Face Font</fontlist>
+		</fontset>
+		<fontset>
+			<name>42</name>
+			<fontlist>42</fontlist>
+		</fontset>
+		<fontset>
+			<name>42 Emancipated</name>
+			<fontlist>42 Emancipated</fontlist>
+		</fontset>
+		<fontset>
+			<name>50 Fonts 2</name>
+			<fontlist>50 Fonts 2</fontlist>
+		</fontset>
+		<fontset>
+			<name>60s Chic</name>
+			<fontlist>60s Chic</fontlist>
+		</fontset>
+		<fontset>
+			<name>7 hours</name>
+			<fontlist>7 hours</fontlist>
+		</fontset>
+		<fontset>
+			<name>80 Decibels</name>
+			<fontlist>80 Decibels</fontlist>
+		</fontset>
+		<fontset>
+			<name>814yzx</name>
+			<fontlist>814yzx</fontlist>
+		</fontset>
+		<fontset>
+			<name>8Pin Matrix</name>
+			<fontlist>8Pin Matrix</fontlist>
+		</fontset>
+		<fontset>
+			<name>90 Days</name>
+			<fontlist>90 Days</fontlist>
+		</fontset>
+		<fontset>
+			<name>911 Porscha</name>
+			<fontlist>911 Porscha</fontlist>
+		</fontset>
+		<fontset>
+			<name>A Damn Mess</name>
+			<fontlist>A Damn Mess</fontlist>
+		</fontset>
+		<fontset>
+			<name>A Scratch</name>
+			<fontlist>A Scratch</fontlist>
+		</fontset>
+		<fontset>
+			<name>A to Z</name>
+			<fontlist>A to Z</fontlist>
+		</fontset>
+		<fontset>
+			<name>A.D. MONO</name>
+			<fontlist>A.D. MONO</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aaah Speed</name>
+			<fontlist>Aaah Speed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aapex</name>
+			<fontlist>Aapex</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aarco-</name>
+			<fontlist>Aarco-</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aarcover</name>
+			<fontlist>Aarcover</fontlist>
+		</fontset>
+		<fontset>
+			<name>AardvarkBold</name>
+			<fontlist>AardvarkBold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Abaddon™</name>
+			<fontlist>Abaddon™</fontlist>
+		</fontset>
+		<fontset>
+			<name>Abandoned Bitplane</name>
+			<fontlist>Abandoned Bitplane</fontlist>
+		</fontset>
+		<fontset>
+			<name>Abbey Medium Extended</name>
+			<fontlist>Abbey Medium Extended</fontlist>
+		</fontset>
+		<fontset>
+			<name>ABCTech Bodoni Wave</name>
+			<fontlist>ABCTech Bodoni Wave</fontlist>
+		</fontset>
+		<fontset>
+			<name>Abduction</name>
+			<fontlist>Abduction</fontlist>
+		</fontset>
+		<fontset>
+			<name>Abe</name>
+			<fontlist>Abe</fontlist>
+		</fontset>
+		<fontset>
+			<name>Abiscuos</name>
+			<fontlist>Abiscuos</fontlist>
+		</fontset>
+		<fontset>
+			<name>Abstrakt</name>
+			<fontlist>Abstrakt</fontlist>
+		</fontset>
+		<fontset>
+			<name>Abtechia</name>
+			<fontlist>Abtechia</fontlist>
+		</fontset>
+		<fontset>
+			<name>AC</name>
+			<fontlist>AC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Acadian™</name>
+			<fontlist>Acadian™</fontlist>
+		</fontset>
+		<fontset>
+			<name>Achilles</name>
+			<fontlist>Achilles</fontlist>
+		</fontset>
+		<fontset>
+			<name>Acid Bath</name>
+			<fontlist>Acid Bath</fontlist>
+		</fontset>
+		<fontset>
+			<name>Acid House</name>
+			<fontlist>Acid House</fontlist>
+		</fontset>
+		<fontset>
+			<name>Action Jackson</name>
+			<fontlist>Action Jackson</fontlist>
+		</fontset>
+		<fontset>
+			<name>ActionIs</name>
+			<fontlist>ActionIs</fontlist>
+		</fontset>
+		<fontset>
+			<name>Addict</name>
+			<fontlist>Addict</fontlist>
+		</fontset>
+		<fontset>
+			<name>AddShade</name>
+			<fontlist>AddShade</fontlist>
+		</fontset>
+		<fontset>
+			<name>AdineKirnberg</name>
+			<fontlist>AdineKirnberg</fontlist>
+		</fontset>
+		<fontset>
+			<name>Adjutant-Normal</name>
+			<fontlist>Adjutant-Normal</fontlist>
+		</fontset>
+		<fontset>
+			<name>Adler</name>
+			<fontlist>Adler</fontlist>
+		</fontset>
+		<fontset>
+			<name>Adresack™</name>
+			<fontlist>Adresack™</fontlist>
+		</fontset>
+		<fontset>
+			<name>Adriator</name>
+			<fontlist>Adriator</fontlist>
+		</fontset>
+		<fontset>
+			<name>Adventure</name>
+			<fontlist>Adventure</fontlist>
+		</fontset>
+		<fontset>
+			<name>Adventure Subtitles</name>
+			<fontlist>Adventure Subtitles</fontlist>
+		</fontset>
+		<fontset>
+			<name>Advert</name>
+			<fontlist>Advert</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aetherfox</name>
+			<fontlist>Aetherfox</fontlist>
+		</fontset>
+		<fontset>
+			<name>after 45'</name>
+			<fontlist>after 45'</fontlist>
+		</fontset>
+		<fontset>
+			<name>After ttnorm</name>
+			<fontlist>After ttnorm</fontlist>
+		</fontset>
+		<fontset>
+			<name>After Shok</name>
+			<fontlist>After Shok</fontlist>
+		</fontset>
+		<fontset>
+			<name>Agatha</name>
+			<fontlist>Agatha</fontlist>
+		</fontset>
+		<fontset>
+			<name>AgencyGothic</name>
+			<fontlist>AgencyGothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Äggstock</name>
+			<fontlist>Äggstock</fontlist>
+		</fontset>
+		<fontset>
+			<name>AhnbergHand</name>
+			<fontlist>AhnbergHand</fontlist>
+		</fontset>
+		<fontset>
+			<name>AIFragment</name>
+			<fontlist>AIFragment</fontlist>
+		</fontset>
+		<fontset>
+			<name>Air Force</name>
+			<fontlist>Air Force</fontlist>
+		</fontset>
+		<fontset>
+			<name>Airboy</name>
+			<fontlist>Airboy</fontlist>
+		</fontset>
+		<fontset>
+			<name>AirCut</name>
+			<fontlist>AirCut</fontlist>
+		</fontset>
+		<fontset>
+			<name>Airlock</name>
+			<fontlist>Airlock</fontlist>
+		</fontset>
+		<fontset>
+			<name>AIRWAVE 1</name>
+			<fontlist>AIRWAVE 1</fontlist>
+		</fontset>
+		<fontset>
+			<name>Akka</name>
+			<fontlist>Akka</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ala Carte</name>
+			<fontlist>Ala Carte</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aladdin</name>
+			<fontlist>Aladdin</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alako-Bold</name>
+			<fontlist>Alako-Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alan Den</name>
+			<fontlist>Alan Den</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alchemist</name>
+			<fontlist>Alchemist</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alcohole</name>
+			<fontlist>Alcohole</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aldo's Moon</name>
+			<fontlist>Aldo's Moon</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aldo's Nova</name>
+			<fontlist>Aldo's Nova</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alfredo's Dance</name>
+			<fontlist>Alfredo's Dance</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alianna</name>
+			<fontlist>Alianna</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alien</name>
+			<fontlist>Alien</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alien League</name>
+			<fontlist>Alien League</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alien-Tongue</name>
+			<fontlist>Alien-Tongue</fontlist>
+		</fontset>
+		<fontset>
+			<name>alienation</name>
+			<fontlist>alienation</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alienator</name>
+			<fontlist>Alienator</fontlist>
+		</fontset>
+		<fontset>
+			<name>AlienCrops</name>
+			<fontlist>AlienCrops</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alison</name>
+			<fontlist>Alison</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alix2</name>
+			<fontlist>Alix2</fontlist>
+		</fontset>
+		<fontset>
+			<name>All Hearts</name>
+			<fontlist>All Hearts</fontlist>
+		</fontset>
+		<fontset>
+			<name>All Star BV</name>
+			<fontlist>All Star BV</fontlist>
+		</fontset>
+		<fontset>
+			<name>All You Can Eat</name>
+			<fontlist>All You Can Eat</fontlist>
+		</fontset>
+		<fontset>
+			<name>Allembert™</name>
+			<fontlist>Allembert™</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alleycat ICG</name>
+			<fontlist>Alleycat ICG</fontlist>
+		</fontset>
+		<fontset>
+			<name>Almonte</name>
+			<fontlist>Almonte</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alpha  CLOWN</name>
+			<fontlist>Alpha  CLOWN</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alpha  Niner</name>
+			<fontlist>Alpha  Niner</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alpha  Niner i</name>
+			<fontlist>Alpha  Niner i</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alpha Dance</name>
+			<fontlist>Alpha Dance</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alpha Sentry</name>
+			<fontlist>Alpha Sentry</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alpha Silouettes 3</name>
+			<fontlist>Alpha Silouettes 3</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alphabeta</name>
+			<fontlist>Alphabeta</fontlist>
+		</fontset>
+		<fontset>
+			<name>AlphaMack AOE</name>
+			<fontlist>AlphaMack AOE</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alpha-Silouette</name>
+			<fontlist>Alpha-Silouette</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alpha-Silouettes 2</name>
+			<fontlist>Alpha-Silouettes 2</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alphastep  i version</name>
+			<fontlist>Alphastep  i version</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alphastep</name>
+			<fontlist>Alphastep</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alpine</name>
+			<fontlist>Alpine</fontlist>
+		</fontset>
+		<fontset>
+			<name>Alternity</name>
+			<fontlist>Alternity</fontlist>
+		</fontset>
+		<fontset>
+			<name>AmarilloUSAF</name>
+			<fontlist>AmarilloUSAF</fontlist>
+		</fontset>
+		<fontset>
+			<name>AmateurLobotomy</name>
+			<fontlist>AmateurLobotomy</fontlist>
+		</fontset>
+		<fontset>
+			<name>AMazing</name>
+			<fontlist>AMazing</fontlist>
+		</fontset>
+		<fontset>
+			<name>Amazon</name>
+			<fontlist>Amazon</fontlist>
+		</fontset>
+		<fontset>
+			<name>Amazone BT</name>
+			<fontlist>Amazone BT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ambient</name>
+			<fontlist>Ambient</fontlist>
+		</fontset>
+		<fontset>
+			<name>Amelia</name>
+			<fontlist>Amelia</fontlist>
+		</fontset>
+		<fontset>
+			<name>Americana Dreams</name>
+			<fontlist>Americana Dreams</fontlist>
+		</fontset>
+		<fontset>
+			<name>Americana Dreams Condensed</name>
+			<fontlist>Americana Dreams Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Americana Dreams CondUpright</name>
+			<fontlist>Americana Dreams CondUpright</fontlist>
+		</fontset>
+		<fontset>
+			<name>Americana Dreams Expanded</name>
+			<fontlist>Americana Dreams Expanded</fontlist>
+		</fontset>
+		<fontset>
+			<name>Americana Dreams ExpUpright</name>
+			<fontlist>Americana Dreams ExpUpright</fontlist>
+		</fontset>
+		<fontset>
+			<name>Americana Dreams SC</name>
+			<fontlist>Americana Dreams SC</fontlist>
+		</fontset>
+		<fontset>
+			<name>Americana Dreams SC Upright</name>
+			<fontlist>Americana Dreams SC Upright</fontlist>
+		</fontset>
+		<fontset>
+			<name>Americana Dreams Upright</name>
+			<fontlist>Americana Dreams Upright</fontlist>
+		</fontset>
+		<fontset>
+			<name>Amethyst Zucchini</name>
+			<fontlist>Amethyst Zucchini</fontlist>
+		</fontset>
+		<fontset>
+			<name>Amina</name>
+			<fontlist>Amina</fontlist>
+		</fontset>
+		<fontset>
+			<name>Amosis Technik</name>
+			<fontlist>Amosis Technik</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ampoule</name>
+			<fontlist>Ampoule</fontlist>
+		</fontset>
+		<fontset>
+			<name>Amy</name>
+			<fontlist>Amy</fontlist>
+		</fontset>
+		<fontset>
+			<name>An ode to noone</name>
+			<fontlist>An ode to noone</fontlist>
+		</fontset>
+		<fontset>
+			<name>analog</name>
+			<fontlist>analog</fontlist>
+		</fontset>
+		<fontset>
+			<name>Anarchy Mono</name>
+			<fontlist>Anarchy Mono</fontlist>
+		</fontset>
+		<fontset>
+			<name>Anasthesia</name>
+			<fontlist>Anasthesia</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ancient Geek</name>
+			<fontlist>Ancient Geek</fontlist>
+		</fontset>
+		<fontset>
+			<name>Andes</name>
+			<fontlist>Andes</fontlist>
+		</fontset>
+		<fontset>
+			<name>Andorra</name>
+			<fontlist>Andorra</fontlist>
+		</fontset>
+		<fontset>
+			<name>Andover</name>
+			<fontlist>Andover</fontlist>
+		</fontset>
+		<fontset>
+			<name>Andromeda</name>
+			<fontlist>Andromeda</fontlist>
+		</fontset>
+		<fontset>
+			<name>Andros</name>
+			<fontlist>Andros</fontlist>
+		</fontset>
+		<fontset>
+			<name>AndyHand</name>
+			<fontlist>AndyHand</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angel Bear</name>
+			<fontlist>Angel Bear</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angelica</name>
+			<fontlist>Angelica</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angelots (Unregistered)</name>
+			<fontlist>Angelots (Unregistered)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angelus™</name>
+			<fontlist>Angelus™</fontlist>
+		</fontset>
+		<fontset>
+			<name>Anger</name>
+			<fontlist>Anger</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angie BareFoot</name>
+			<fontlist>Angie BareFoot</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angie Groovin</name>
+			<fontlist>Angie Groovin</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angie Pierced</name>
+			<fontlist>Angie Pierced</fontlist>
+		</fontset>
+		<fontset>
+			<name>Anglepoise Lampshade</name>
+			<fontlist>Anglepoise Lampshade</fontlist>
+		</fontset>
+		<fontset>
+			<name>Anglican</name>
+			<fontlist>Anglican</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angostura</name>
+			<fontlist>Angostura</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angostura Black</name>
+			<fontlist>Angostura Black</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angstrom</name>
+			<fontlist>Angstrom</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angular</name>
+			<fontlist>Angular</fontlist>
+		</fontset>
+		<fontset>
+			<name>Anhedonia</name>
+			<fontlist>Anhedonia</fontlist>
+		</fontset>
+		<fontset>
+			<name>AnimalTracks</name>
+			<fontlist>AnimalTracks</fontlist>
+		</fontset>
+		<fontset>
+			<name>Anklepants</name>
+			<fontlist>Anklepants</fontlist>
+		</fontset>
+		<fontset>
+			<name>Annifont</name>
+			<fontlist>Annifont</fontlist>
+		</fontset>
+		<fontset>
+			<name>Another</name>
+			<fontlist>Another</fontlist>
+		</fontset>
+		<fontset>
+			<name>Anson</name>
+			<fontlist>Anson</fontlist>
+		</fontset>
+		<fontset>
+			<name>Antelope H</name>
+			<fontlist>Antelope H</fontlist>
+		</fontset>
+		<fontset>
+			<name>Antenna</name>
+			<fontlist>Antenna</fontlist>
+		</fontset>
+		<fontset>
+			<name>Anticlimax</name>
+			<fontlist>Anticlimax</fontlist>
+		</fontset>
+		<fontset>
+			<name>AntiMatter KG </name>
+			<fontlist>AntiMatter KG </fontlist>
+		</fontset>
+		<fontset>
+			<name>Antimony Blue</name>
+			<fontlist>Antimony Blue</fontlist>
+		</fontset>
+		<fontset>
+			<name>Antioch</name>
+			<fontlist>Antioch</fontlist>
+		</fontset>
+		<fontset>
+			<name>Antique</name>
+			<fontlist>Antique</fontlist>
+		</fontset>
+		<fontset>
+			<name>AntPile</name>
+			<fontlist>AntPile</fontlist>
+		</fontset>
+		<fontset>
+			<name>Apocalypse</name>
+			<fontlist>Apocalypse</fontlist>
+		</fontset>
+		<fontset>
+			<name>ApocataStasis</name>
+			<fontlist>ApocataStasis</fontlist>
+		</fontset>
+		<fontset>
+			<name>Apollo13Condensed</name>
+			<fontlist>Apollo13Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>aptango</name>
+			<fontlist>aptango</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aragones</name>
+			<fontlist>Aragones</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aramis</name>
+			<fontlist>Aramis</fontlist>
+		</fontset>
+		<fontset>
+			<name>ArcadeAmerica</name>
+			<fontlist>ArcadeAmerica</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arcadia</name>
+			<fontlist>Arcadia</fontlist>
+		</fontset>
+		<fontset>
+			<name>Archery Black</name>
+			<fontlist>Archery Black</fontlist>
+		</fontset>
+		<fontset>
+			<name>Archery Black Condensed</name>
+			<fontlist>Archery Black Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Archery Black Outline</name>
+			<fontlist>Archery Black Outline</fontlist>
+		</fontset>
+		<fontset>
+			<name>Archery Black Rounded</name>
+			<fontlist>Archery Black Rounded</fontlist>
+		</fontset>
+		<fontset>
+			<name>ArcheryDisplay</name>
+			<fontlist>ArcheryDisplay</fontlist>
+		</fontset>
+		<fontset>
+			<name>ArchitextOneType</name>
+			<fontlist>ArchitextOneType</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arcitectura</name>
+			<fontlist>Arcitectura</fontlist>
+		</fontset>
+		<fontset>
+			<name>Argentum</name>
+			<fontlist>Argentum</fontlist>
+		</fontset>
+		<fontset>
+			<name>Argosy</name>
+			<fontlist>Argosy</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arialous</name>
+			<fontlist>Arialous</fontlist>
+		</fontset>
+		<fontset>
+			<name>Army Beans</name>
+			<fontlist>Army Beans</fontlist>
+		</fontset>
+		<fontset>
+			<name>ArmyBlack</name>
+			<fontlist>ArmyBlack</fontlist>
+		</fontset>
+		<fontset>
+			<name>ArmyChalk</name>
+			<fontlist>ArmyChalk</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arrgh!</name>
+			<fontlist>Arrgh!</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arruba</name>
+			<fontlist>Arruba</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arsis</name>
+			<fontlist>Arsis</fontlist>
+		</fontset>
+		<fontset>
+			<name>Art ttnorm</name>
+			<fontlist>Art ttnorm</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arthritis (BRK)</name>
+			<fontlist>Arthritis (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Arthur</name>
+			<fontlist>Arthur</fontlist>
+		</fontset>
+		<fontset>
+			<name>ArtificeSSK</name>
+			<fontlist>ArtificeSSK</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ashford</name>
+			<fontlist>Ashford</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ashley</name>
+			<fontlist>Ashley</fontlist>
+		</fontset>
+		<fontset>
+			<name>Asimov</name>
+			<fontlist>Asimov</fontlist>
+		</fontset>
+		<fontset>
+			<name>asos19101357</name>
+			<fontlist>asos19101357</fontlist>
+		</fontset>
+		<fontset>
+			<name>Asphodel™</name>
+			<fontlist>Asphodel™</fontlist>
+		</fontset>
+		<fontset>
+			<name>Assimilate</name>
+			<fontlist>Assimilate</fontlist>
+		</fontset>
+		<fontset>
+			<name>Astigma</name>
+			<fontlist>Astigma</fontlist>
+		</fontset>
+		<fontset>
+			<name>Astra</name>
+			<fontlist>Astra</fontlist>
+		</fontset>
+		<fontset>
+			<name>PR Astro</name>
+			<fontlist>PR Astro</fontlist>
+		</fontset>
+		<fontset>
+			<name>Aswell</name>
+			<fontlist>Aswell</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ataxia (BRK)</name>
+			<fontlist>Ataxia (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ataxia Outline (BRK)</name>
+			<fontlist>Ataxia Outline (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>AteUpWithDumbAss</name>
+			<fontlist>AteUpWithDumbAss</fontlist>
+		</fontset>
+		<fontset>
+			<name>Atlantic Inline</name>
+			<fontlist>Atlantic Inline</fontlist>
+		</fontset>
+		<fontset>
+			<name>Atlantis</name>
+			<fontlist>Atlantis</fontlist>
+		</fontset>
+		<fontset>
+			<name>AtomBomb</name>
+			<fontlist>AtomBomb</fontlist>
+		</fontset>
+		<fontset>
+			<name>Atomic</name>
+			<fontlist>Atomic</fontlist>
+		</fontset>
+		<fontset>
+			<name>ATROX</name>
+			<fontlist>ATROX</fontlist>
+		</fontset>
+		<fontset>
+			<name>augie</name>
+			<fontlist>augie</fontlist>
+		</fontset>
+		<fontset>
+			<name>Autriche ALT</name>
+			<fontlist>Autriche ALT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Avalon Quest</name>
+			<fontlist>Avalon Quest</fontlist>
+		</fontset>
+		<fontset>
+			<name>Avatar</name>
+			<fontlist>Avatar</fontlist>
+		</fontset>
+		<fontset>
+			<name>Avatar Bold</name>
+			<fontlist>Avatar Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>AvQest</name>
+			<fontlist>AvQest</fontlist>
+		</fontset>
+		<fontset>
+			<name>awitched</name>
+			<fontlist>awitched</fontlist>
+		</fontset>
+		<fontset>
+			<name>Axaxax</name>
+			<fontlist>Axaxax</fontlist>
+		</fontset>
+		<fontset>
+			<name>AZ</name>
+			<fontlist>AZ</fontlist>
+		</fontset>
+		<fontset>
+			<name>Azrael</name>
+			<fontlist>Azrael</fontlist>
+		</fontset>
+		<fontset>
+			<name>B Surfers</name>
+			<fontlist>B Surfers</fontlist>
+		</fontset>
+		<fontset>
+			<name>Babe Bamboo</name>
+			<fontlist>Babe Bamboo</fontlist>
+		</fontset>
+		<fontset>
+			<name>Babelfish</name>
+			<fontlist>Babelfish</fontlist>
+		</fontset>
+		<fontset>
+			<name>Baby Blocks</name>
+			<fontlist>Baby Blocks</fontlist>
+		</fontset>
+		<fontset>
+			<name>Baby Jeepers</name>
+			<fontlist>Baby Jeepers</fontlist>
+		</fontset>
+		<fontset>
+			<name>Baby Kruffy</name>
+			<fontlist>Baby Kruffy</fontlist>
+		</fontset>
+		<fontset>
+			<name>Babylon 27</name>
+			<fontlist>Babylon 27</fontlist>
+		</fontset>
+		<fontset>
+			<name>Babylon Industrial</name>
+			<fontlist>Babylon Industrial</fontlist>
+		</fontset>
+		<fontset>
+			<name>Babylon5</name>
+			<fontlist>Babylon5</fontlist>
+		</fontset>
+		<fontset>
+			<name>Back to 1982</name>
+			<fontlist>Back to 1982</fontlist>
+		</fontset>
+		<fontset>
+			<name>Back to Bay 6</name>
+			<fontlist>Back to Bay 6</fontlist>
+		</fontset>
+		<fontset>
+			<name>BackSplatter</name>
+			<fontlist>BackSplatter</fontlist>
+		</fontset>
+		<fontset>
+			<name>Backup Generation</name>
+			<fontlist>Backup Generation</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bad Films</name>
+			<fontlist>Bad Films</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bad Hair Day</name>
+			<fontlist>Bad Hair Day</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bad Seed</name>
+			<fontlist>Bad Seed</fontlist>
+		</fontset>
+		<fontset>
+			<name>BadAcid™</name>
+			<fontlist>BadAcid™</fontlist>
+		</fontset>
+		<fontset>
+			<name>BadDogSCapsSSK</name>
+			<fontlist>BadDogSCapsSSK</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bailey'sCar</name>
+			<fontlist>Bailey'sCar</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bal-Astaral</name>
+			<fontlist>Bal-Astaral</fontlist>
+		</fontset>
+		<fontset>
+			<name>Balcony Angels</name>
+			<fontlist>Balcony Angels</fontlist>
+		</fontset>
+		<fontset>
+			<name>bald</name>
+			<fontlist>bald</fontlist>
+		</fontset>
+		<fontset>
+			<name>baldhead</name>
+			<fontlist>baldhead</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ball</name>
+			<fontlist>Ball</fontlist>
+		</fontset>
+		<fontset>
+			<name>Balls on the rampage</name>
+			<fontlist>Balls on the rampage</fontlist>
+		</fontset>
+		<fontset>
+			<name>BallTack</name>
+			<fontlist>BallTack</fontlist>
+		</fontset>
+		<fontset>
+			<name>Baloney</name>
+			<fontlist>Baloney</fontlist>
+		</fontset>
+		<fontset>
+			<name>Baltar</name>
+			<fontlist>Baltar</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bambi Bold</name>
+			<fontlist>Bambi Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bamboo</name>
+			<fontlist>Bamboo</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bandit</name>
+			<fontlist>Bandit</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bang LET</name>
+			<fontlist>Bang LET</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bangalore</name>
+			<fontlist>Bangalore</fontlist>
+		</fontset>
+		<fontset>
+			<name>Baratz</name>
+			<fontlist>Baratz</fontlist>
+		</fontset>
+		<fontset>
+			<name>Barbatrick</name>
+			<fontlist>Barbatrick</fontlist>
+		</fontset>
+		<fontset>
+			<name>BarberPole</name>
+			<fontlist>BarberPole</fontlist>
+		</fontset>
+		<fontset>
+			<name>BarClaey Label</name>
+			<fontlist>BarClaey Label</fontlist>
+		</fontset>
+		<fontset>
+			<name>Barricades</name>
+			<fontlist>Barricades</fontlist>
+		</fontset>
+		<fontset>
+			<name>Barron</name>
+			<fontlist>Barron</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bas Relief</name>
+			<fontlist>Bas Relief</fontlist>
+		</fontset>
+		<fontset>
+			<name>BASEHEAD</name>
+			<fontlist>BASEHEAD</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bassackwards</name>
+			<fontlist>Bassackwards</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bat Ben</name>
+			<fontlist>Bat Ben</fontlist>
+		</fontset>
+		<fontset>
+			<name>Batman Beat the hell Outta Me</name>
+			<fontlist>Batman Beat the hell Outta Me</fontlist>
+		</fontset>
+		<fontset>
+			<name>BatmanForeverAlternate</name>
+			<fontlist>BatmanForeverAlternate</fontlist>
+		</fontset>
+		<fontset>
+			<name>BatmanForeverOutline</name>
+			<fontlist>BatmanForeverOutline</fontlist>
+		</fontset>
+		<fontset>
+			<name>Batmos</name>
+			<fontlist>Batmos</fontlist>
+		</fontset>
+		<fontset>
+			<name>Battlefield</name>
+			<fontlist>Battlefield</fontlist>
+		</fontset>
+		<fontset>
+			<name>Battlestar</name>
+			<fontlist>Battlestar</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bauhaus</name>
+			<fontlist>Bauhaus</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bauhaus 93</name>
+			<fontlist>Bauhaus 93</fontlist>
+		</fontset>
+		<fontset>
+			<name>Baumarkt</name>
+			<fontlist>Baumarkt</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bayou Cowboy</name>
+			<fontlist>Bayou Cowboy</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bazaronite</name>
+			<fontlist>Bazaronite</fontlist>
+		</fontset>
+		<fontset>
+			<name>BBQcow</name>
+			<fontlist>BBQcow</fontlist>
+		</fontset>
+		<fontset>
+			<name>BDBrick</name>
+			<fontlist>BDBrick</fontlist>
+		</fontset>
+		<fontset>
+			<name>Beach House</name>
+			<fontlist>Beach House</fontlist>
+		</fontset>
+		<fontset>
+			<name>Beach House stars</name>
+			<fontlist>Beach House stars</fontlist>
+		</fontset>
+		<fontset>
+			<name>BeachType</name>
+			<fontlist>BeachType</fontlist>
+		</fontset>
+		<fontset>
+			<name>Beam</name>
+			<fontlist>Beam</fontlist>
+		</fontset>
+		<fontset>
+			<name>Beanie</name>
+			<fontlist>Beanie</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bearpaw</name>
+			<fontlist>Bearpaw</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bearpaw Bats</name>
+			<fontlist>Bearpaw Bats</fontlist>
+		</fontset>
+		<fontset>
+			<name>Beat My Guest</name>
+			<fontlist>Beat My Guest</fontlist>
+		</fontset>
+		<fontset>
+			<name>BeautySchoolDropout</name>
+			<fontlist>BeautySchoolDropout</fontlist>
+		</fontset>
+		<fontset>
+			<name>Beckett</name>
+			<fontlist>Beckett</fontlist>
+		</fontset>
+		<fontset>
+			<name>BECROSS</name>
+			<fontlist>BECROSS</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bedrock</name>
+			<fontlist>Bedrock</fontlist>
+		</fontset>
+		<fontset>
+			<name>Beebop</name>
+			<fontlist>Beebop</fontlist>
+		</fontset>
+		<fontset>
+			<name>Beesknees ITC</name>
+			<fontlist>Beesknees ITC</fontlist>
+		</fontset>
+		<fontset>
+			<name>BeetleJ</name>
+			<fontlist>BeetleJ</fontlist>
+		</fontset>
+		<fontset>
+			<name>Beijing</name>
+			<fontlist>Beijing</fontlist>
+		</fontset>
+		<fontset>
+			<name>Belching Up Salisbury Steak</name>
+			<fontlist>Belching Up Salisbury Steak</fontlist>
+		</fontset>
+		<fontset>
+			<name>Believer</name>
+			<fontlist>Believer</fontlist>
+		</fontset>
+		<fontset>
+			<name>BellBottom.Laser</name>
+			<fontlist>BellBottom.Laser</fontlist>
+		</fontset>
+		<fontset>
+			<name>BenFranklin</name>
+			<fontlist>BenFranklin</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bergmark</name>
+			<fontlist>Bergmark</fontlist>
+		</fontset>
+		<fontset>
+			<name>Berliner</name>
+			<fontlist>Berliner</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bert</name>
+			<fontlist>Bert</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bertram LET</name>
+			<fontlist>Bertram LET</fontlist>
+		</fontset>
+		<fontset>
+			<name>Beta Block</name>
+			<fontlist>Beta Block</fontlist>
+		</fontset>
+		<fontset>
+			<name>Betsy Flanagan</name>
+			<fontlist>Betsy Flanagan</fontlist>
+		</fontset>
+		<fontset>
+			<name>Betty's Confetti</name>
+			<fontlist>Betty's Confetti</fontlist>
+		</fontset>
+		<fontset>
+			<name>BeyondControl</name>
+			<fontlist>BeyondControl</fontlist>
+		</fontset>
+		<fontset>
+			<name>BeyondControl volume2</name>
+			<fontlist>BeyondControl volume2</fontlist>
+		</fontset>
+		<fontset>
+			<name>Big Blocko</name>
+			<fontlist>Big Blocko</fontlist>
+		</fontset>
+		<fontset>
+			<name>Big Fish Ensemble</name>
+			<fontlist>Big Fish Ensemble</fontlist>
+		</fontset>
+		<fontset>
+			<name>Big Ham</name>
+			<fontlist>Big Ham</fontlist>
+		</fontset>
+		<fontset>
+			<name>Big Loada Splatter</name>
+			<fontlist>Big Loada Splatter</fontlist>
+		</fontset>
+		<fontset>
+			<name>Big</name>
+			<fontlist>Big</fontlist>
+		</fontset>
+		<fontset>
+			<name>Big Truck</name>
+			<fontlist>Big Truck</fontlist>
+		</fontset>
+		<fontset>
+			<name>BIGCITY-Norm-Cn</name>
+			<fontlist>BIGCITY-Norm-Cn</fontlist>
+		</fontset>
+		<fontset>
+			<name>Biggen</name>
+			<fontlist>Biggen</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bikini</name>
+			<fontlist>Bikini</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bikly</name>
+			<fontlist>Bikly</fontlist>
+		</fontset>
+		<fontset>
+			<name>Binner</name>
+			<fontlist>Binner</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bio-disc</name>
+			<fontlist>Bio-disc</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bio-disc Solid</name>
+			<fontlist>Bio-disc Solid</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bio-disc Thin</name>
+			<fontlist>Bio-disc Thin</fontlist>
+		</fontset>
+		<fontset>
+			<name>Biometric Joe</name>
+			<fontlist>Biometric Joe</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bionic</name>
+			<fontlist>Bionic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bird</name>
+			<fontlist>Bird</fontlist>
+		</fontset>
+		<fontset>
+			<name>Birdland Aeroplane</name>
+			<fontlist>Birdland Aeroplane</fontlist>
+		</fontset>
+		<fontset>
+			<name>Birmingham</name>
+			<fontlist>Birmingham</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bisque</name>
+			<fontlist>Bisque</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bite me!</name>
+			<fontlist>Bite me!</fontlist>
+		</fontset>
+		<fontset>
+			<name>Biting My Nails</name>
+			<fontlist>Biting My Nails</fontlist>
+		</fontset>
+		<fontset>
+			<name>Biting My Nails Outline</name>
+			<fontlist>Biting My Nails Outline</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bitstorm</name>
+			<fontlist>Bitstorm</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bizarre</name>
+			<fontlist>Bizarre</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bizarro</name>
+			<fontlist>Bizarro</fontlist>
+		</fontset>
+		<fontset>
+			<name>BjBj</name>
+			<fontlist>BjBj</fontlist>
+		</fontset>
+		<fontset>
+			<name>BjBj-TOO</name>
+			<fontlist>BjBj-TOO</fontlist>
+		</fontset>
+		<fontset>
+			<name>Black Box</name>
+			<fontlist>Black Box</fontlist>
+		</fontset>
+		<fontset>
+			<name>Black Cow</name>
+			<fontlist>Black Cow</fontlist>
+		</fontset>
+		<fontset>
+			<name>BLACK KNIGHT</name>
+			<fontlist>BLACK KNIGHT</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlackAdderII</name>
+			<fontlist>BlackAdderII</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlackChancery</name>
+			<fontlist>BlackChancery</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlackcurrantCameo</name>
+			<fontlist>BlackcurrantCameo</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blackfly Mambo</name>
+			<fontlist>Blackfly Mambo</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlackForest</name>
+			<fontlist>BlackForest</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlacklightD</name>
+			<fontlist>BlacklightD</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blackout</name>
+			<fontlist>Blackout</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blades</name>
+			<fontlist>Blades</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blake</name>
+			<fontlist>Blake</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blasphemy</name>
+			<fontlist>Blasphemy</fontlist>
+		</fontset>
+		<fontset>
+			<name>BLAST</name>
+			<fontlist>BLAST</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bleed</name>
+			<fontlist>Bleed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blindfold</name>
+			<fontlist>Blindfold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blinkers</name>
+			<fontlist>Blinkers</fontlist>
+		</fontset>
+		<fontset>
+			<name>Block Tilt (BRK)</name>
+			<fontlist>Block Tilt (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blockhead</name>
+			<fontlist>Blockhead</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blood Of Dracula</name>
+			<fontlist>Blood Of Dracula</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bloodgutter 99</name>
+			<fontlist>Bloodgutter 99</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bloody</name>
+			<fontlist>Bloody</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bloomington</name>
+			<fontlist>Bloomington</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blown Away</name>
+			<fontlist>Blown Away</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blown Droid</name>
+			<fontlist>Blown Droid</fontlist>
+		</fontset>
+		<fontset>
+			<name>BLT</name>
+			<fontlist>BLT</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blue Highway</name>
+			<fontlist>Blue Highway</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blue Highway Condensed</name>
+			<fontlist>Blue Highway Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blue Highway D Type</name>
+			<fontlist>Blue Highway D Type</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blue lines</name>
+			<fontlist>Blue lines</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blue Melody</name>
+			<fontlist>Blue Melody</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blue</name>
+			<fontlist>Blue</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlueArsenalOne</name>
+			<fontlist>BlueArsenalOne</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlueBond-Bold</name>
+			<fontlist>BlueBond-Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlueBond-BoldOblique</name>
+			<fontlist>BlueBond-BoldOblique</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlueBond</name>
+			<fontlist>BlueBond</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlueBond-Oblique</name>
+			<fontlist>BlueBond-Oblique</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlueCake</name>
+			<fontlist>BlueCake</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlueVelvet</name>
+			<fontlist>BlueVelvet</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blufunken (side A)</name>
+			<fontlist>Blufunken (side A)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blurrd</name>
+			<fontlist>Blurrd</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blutter</name>
+			<fontlist>Blutter</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bobcat</name>
+			<fontlist>Bobcat</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bogusflow</name>
+			<fontlist>Bogusflow</fontlist>
+		</fontset>
+		<fontset>
+			<name>BoinkoMatic</name>
+			<fontlist>BoinkoMatic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bolide</name>
+			<fontlist>Bolide</fontlist>
+		</fontset>
+		<fontset>
+			<name>BONES</name>
+			<fontlist>BONES</fontlist>
+		</fontset>
+		<fontset>
+			<name>BooBooKitty</name>
+			<fontlist>BooBooKitty</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bookworm</name>
+			<fontlist>Bookworm</fontlist>
+		</fontset>
+		<fontset>
+			<name>Boomerang</name>
+			<fontlist>Boomerang</fontlist>
+		</fontset>
+		<fontset>
+			<name>boomerang monkey</name>
+			<fontlist>boomerang monkey</fontlist>
+		</fontset>
+		<fontset>
+			<name>Boost SSi</name>
+			<fontlist>Boost SSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>BootyScratch</name>
+			<fontlist>BootyScratch</fontlist>
+		</fontset>
+		<fontset>
+			<name>Booze</name>
+			<fontlist>Booze</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bored Robots KG</name>
+			<fontlist>Bored Robots KG</fontlist>
+		</fontset>
+		<fontset>
+			<name>Boredom</name>
+			<fontlist>Boredom</fontlist>
+		</fontset>
+		<fontset>
+			<name>Borg9</name>
+			<fontlist>Borg9</fontlist>
+		</fontset>
+		<fontset>
+			<name>Boring Boring</name>
+			<fontlist>Boring Boring</fontlist>
+		</fontset>
+		<fontset>
+			<name>Borzoi</name>
+			<fontlist>Borzoi</fontlist>
+		</fontset>
+		<fontset>
+			<name>Boulder</name>
+			<fontlist>Boulder</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bouncer</name>
+			<fontlist>Bouncer</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bountiful</name>
+			<fontlist>Bountiful</fontlist>
+		</fontset>
+		<fontset>
+			<name>BoutiqueDisplayCaps</name>
+			<fontlist>BoutiqueDisplayCaps</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brad</name>
+			<fontlist>Brad</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brady Bunch</name>
+			<fontlist>Brady Bunch</fontlist>
+		</fontset>
+		<fontset>
+			<name>Braeside Lumberboy</name>
+			<fontlist>Braeside Lumberboy</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bramalea Beauty</name>
+			<fontlist>Bramalea Beauty</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brand New</name>
+			<fontlist>Brand New</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brandywine™</name>
+			<fontlist>Brandywine™</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brial</name>
+			<fontlist>Brial</fontlist>
+		</fontset>
+		<fontset>
+			<name>brickle</name>
+			<fontlist>brickle</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bridgnorth</name>
+			<fontlist>Bridgnorth</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brigida</name>
+			<fontlist>Brigida</fontlist>
+		</fontset>
+		<fontset>
+			<name>BritComics</name>
+			<fontlist>BritComics</fontlist>
+		</fontset>
+		<fontset>
+			<name>British Block Flourish, 10th c.</name>
+			<fontlist>British Block Flourish, 10th c.</fontlist>
+		</fontset>
+		<fontset>
+			<name>British Outline Majuscules</name>
+			<fontlist>British Outline Majuscules</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brock</name>
+			<fontlist>Brock</fontlist>
+		</fontset>
+		<fontset>
+			<name>Broken Wing</name>
+			<fontlist>Broken Wing</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brooklyn Kid</name>
+			<fontlist>Brooklyn Kid</fontlist>
+		</fontset>
+		<fontset>
+			<name>BrotherMan</name>
+			<fontlist>BrotherMan</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brottardolme</name>
+			<fontlist>Brottardolme</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brrrrr</name>
+			<fontlist>Brrrrr</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bruce</name>
+			<fontlist>Bruce</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bruesh</name>
+			<fontlist>Bruesh</fontlist>
+		</fontset>
+		<fontset>
+			<name>BrunstCaps</name>
+			<fontlist>BrunstCaps</fontlist>
+		</fontset>
+		<fontset>
+			<name>BrushArt</name>
+			<fontlist>BrushArt</fontlist>
+		</fontset>
+		<fontset>
+			<name>Brushcut</name>
+			<fontlist>Brushcut</fontlist>
+		</fontset>
+		<fontset>
+			<name>BrusselsTitlingCaps</name>
+			<fontlist>BrusselsTitlingCaps</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bubble</name>
+			<fontlist>Bubble</fontlist>
+		</fontset>
+		<fontset>
+			<name>BubbleBath</name>
+			<fontlist>BubbleBath</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bubblegum Superstar</name>
+			<fontlist>Bubblegum Superstar</fontlist>
+		</fontset>
+		<fontset>
+			<name>Buccaneer</name>
+			<fontlist>Buccaneer</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bucephalus</name>
+			<fontlist>Bucephalus</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bud Easy</name>
+			<fontlist>Bud Easy</fontlist>
+		</fontset>
+		<fontset>
+			<name>BudBird</name>
+			<fontlist>BudBird</fontlist>
+		</fontset>
+		<fontset>
+			<name>BuddySystem</name>
+			<fontlist>BuddySystem</fontlist>
+		</fontset>
+		<fontset>
+			<name>BudHand</name>
+			<fontlist>BudHand</fontlist>
+		</fontset>
+		<fontset>
+			<name>Budmo Jiggler</name>
+			<fontlist>Budmo Jiggler</fontlist>
+		</fontset>
+		<fontset>
+			<name>BudNull</name>
+			<fontlist>BudNull</fontlist>
+		</fontset>
+		<fontset>
+			<name>Buffied</name>
+			<fontlist>Buffied</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bulgari</name>
+			<fontlist>Bulgari</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bumbastika</name>
+			<fontlist>Bumbastika</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bumbazoid</name>
+			<fontlist>Bumbazoid</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bumpy Road</name>
+			<fontlist>Bumpy Road</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bunchló</name>
+			<fontlist>Bunchló</fontlist>
+		</fontset>
+		<fontset>
+			<name>BungleCity</name>
+			<fontlist>BungleCity</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bungnipper</name>
+			<fontlist>Bungnipper</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bunny Rabbits</name>
+			<fontlist>Bunny Rabbits</fontlist>
+		</fontset>
+		<fontset>
+			<name>Burlesque</name>
+			<fontlist>Burlesque</fontlist>
+		</fontset>
+		<fontset>
+			<name>Burned Rubber</name>
+			<fontlist>Burned Rubber</fontlist>
+		</fontset>
+		<fontset>
+			<name>BurnOut</name>
+			<fontlist>BurnOut</fontlist>
+		</fontset>
+		<fontset>
+			<name>Burnstown Dam</name>
+			<fontlist>Burnstown Dam</fontlist>
+		</fontset>
+		<fontset>
+			<name>BurnYourPhone</name>
+			<fontlist>BurnYourPhone</fontlist>
+		</fontset>
+		<fontset>
+			<name>Burrito</name>
+			<fontlist>Burrito</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bush</name>
+			<fontlist>Bush</fontlist>
+		</fontset>
+		<fontset>
+			<name>Business Suit</name>
+			<fontlist>Business Suit</fontlist>
+		</fontset>
+		<fontset>
+			<name>Bustamante1.0</name>
+			<fontlist>Bustamante1.0</fontlist>
+		</fontset>
+		<fontset>
+			<name>Butterbelly</name>
+			<fontlist>Butterbelly</fontlist>
+		</fontset>
+		<fontset>
+			<name>Buttercrumb</name>
+			<fontlist>Buttercrumb</fontlist>
+		</fontset>
+		<fontset>
+			<name>Butterfly Chromosome</name>
+			<fontlist>Butterfly Chromosome</fontlist>
+		</fontset>
+		<fontset>
+			<name>Buttmunch</name>
+			<fontlist>Buttmunch</fontlist>
+		</fontset>
+		<fontset>
+			<name>ButtonButton AOE</name>
+			<fontlist>ButtonButton AOE</fontlist>
+		</fontset>
+		<fontset>
+			<name>Buttweasel</name>
+			<fontlist>Buttweasel</fontlist>
+		</fontset>
+		<fontset>
+			<name>Buttzilla</name>
+			<fontlist>Buttzilla</fontlist>
+		</fontset>
+		<fontset>
+			<name>Byte</name>
+			<fontlist>Byte</fontlist>
+		</fontset>
+		<fontset>
+			<name>Byte Police</name>
+			<fontlist>Byte Police</fontlist>
+		</fontset>
+		<fontset>
+			<name>Byzantine</name>
+			<fontlist>Byzantine</fontlist>
+		</fontset>
+		<fontset>
+			<name>GF Becker</name>
+			<fontlist>GF Becker</fontlist>
+		</fontset>
+		<fontset>
+			<name>Mezzotick</name>
+			<fontlist>Mezzotick</fontlist>
+		</fontset>
+		<fontset>
+			<name>OMEGA Boldo Rocko</name>
+			<fontlist>OMEGA Boldo Rocko</fontlist>
+		</fontset>
+		<fontset>
+			<name>PR Uncial Alt Caps</name>
+			<fontlist>PR Uncial Alt Caps</fontlist>
+		</fontset>
+		<fontset>
+			<name>PT Banana Split</name>
+			<fontlist>PT Banana Split</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ra's Hand</name>
+			<fontlist>Ra's Hand</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ra's Hand Hollow</name>
+			<fontlist>Ra's Hand Hollow</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Atarian System</name>
+			<fontlist>SF Atarian System</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Atarian System Extended</name>
+			<fontlist>SF Atarian System Extended</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Big Whiskey</name>
+			<fontlist>SF Big Whiskey</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Big Whiskey Condensed</name>
+			<fontlist>SF Big Whiskey Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Big Whiskey Extended</name>
+			<fontlist>SF Big Whiskey Extended</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Big Whiskey SC</name>
+			<fontlist>SF Big Whiskey SC</fontlist>
+		</fontset>
+		<fontset>
+			<name>VTCBelialsBlade</name>
+			<fontlist>VTCBelialsBlade</fontlist>
+		</fontset>
+		<fontset>
+			<name>VTCBelialsBlade3d</name>
+			<fontlist>VTCBelialsBlade3d</fontlist>
+		</fontset>
+		<fontset>
+			<name>VTCBelialsBladeItalic</name>
+			<fontlist>VTCBelialsBladeItalic</fontlist>
+		</fontset>
+		<fontset>
+			<name>VTCBelialsBladeShadow</name>
+			<fontlist>VTCBelialsBladeShadow</fontlist>
+		</fontset>
+		<fontset>
+			<name>VTCBelialsBladeTricked</name>
+			<fontlist>VTCBelialsBladeTricked</fontlist>
+		</fontset>
+		<fontset>
+			<name>[.atari-kids.]</name>
+			<fontlist>[.atari-kids.]</fontlist>
+		</fontset>
+		<fontset>
+			<name>Earthworm Jim</name>
+			<fontlist>Earthworm Jim</fontlist>
+		</fontset>
+		<fontset>
+			<name>FZ JAZZY 38</name>
+			<fontlist>FZ JAZZY 38</fontlist>
+		</fontset>
+		<fontset>
+			<name>I Am</name>
+			<fontlist>I Am</fontlist>
+		</fontset>
+		<fontset>
+			<name>I am Monotonous</name>
+			<fontlist>I am Monotonous</fontlist>
+		</fontset>
+		<fontset>
+			<name>I  SEE SPIRALS</name>
+			<fontlist>I  SEE SPIRALS</fontlist>
+		</fontset>
+		<fontset>
+			<name>IcicleCountry</name>
+			<fontlist>IcicleCountry</fontlist>
+		</fontset>
+		<fontset>
+			<name>ID SupernovaSW</name>
+			<fontlist>ID SupernovaSW</fontlist>
+		</fontset>
+		<fontset>
+			<name>Idiot</name>
+			<fontlist>Idiot</fontlist>
+		</fontset>
+		<fontset>
+			<name>IGaramond</name>
+			<fontlist>IGaramond</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ikarus</name>
+			<fontlist>Ikarus</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ikarus Turbulence</name>
+			<fontlist>Ikarus Turbulence</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ikarus Vulture</name>
+			<fontlist>Ikarus Vulture</fontlist>
+		</fontset>
+		<fontset>
+			<name>IkonWrite</name>
+			<fontlist>IkonWrite</fontlist>
+		</fontset>
+		<fontset>
+			<name>Image Times</name>
+			<fontlist>Image Times</fontlist>
+		</fontset>
+		<fontset>
+			<name>Imperium</name>
+			<fontlist>Imperium</fontlist>
+		</fontset>
+		<fontset>
+			<name>Impossibilium (BRK)</name>
+			<fontlist>Impossibilium (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Impressed Metal</name>
+			<fontlist>Impressed Metal</fontlist>
+		</fontset>
+		<fontset>
+			<name>InavelMutant</name>
+			<fontlist>InavelMutant</fontlist>
+		</fontset>
+		<fontset>
+			<name>Incarnation</name>
+			<fontlist>Incarnation</fontlist>
+		</fontset>
+		<fontset>
+			<name>Independence</name>
+			<fontlist>Independence</fontlist>
+		</fontset>
+		<fontset>
+			<name>Induction</name>
+			<fontlist>Induction</fontlist>
+		</fontset>
+		<fontset>
+			<name>Industrial Schizophrenic</name>
+			<fontlist>Industrial Schizophrenic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Inertia (BRK)</name>
+			<fontlist>Inertia (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Inflammable Age</name>
+			<fontlist>Inflammable Age</fontlist>
+		</fontset>
+		<fontset>
+			<name>Infobubble</name>
+			<fontlist>Infobubble</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ink Tank (BRK)</name>
+			<fontlist>Ink Tank (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>InkaBod</name>
+			<fontlist>InkaBod</fontlist>
+		</fontset>
+		<fontset>
+			<name>Inkburrow</name>
+			<fontlist>Inkburrow</fontlist>
+		</fontset>
+		<fontset>
+			<name>Inn</name>
+			<fontlist>Inn</fontlist>
+		</fontset>
+		<fontset>
+			<name>Inner Sanctum</name>
+			<fontlist>Inner Sanctum</fontlist>
+		</fontset>
+		<fontset>
+			<name>Innie Outtie</name>
+			<fontlist>Innie Outtie</fontlist>
+		</fontset>
+		<fontset>
+			<name>Inningham spread</name>
+			<fontlist>Inningham spread</fontlist>
+		</fontset>
+		<fontset>
+			<name>Insomnia</name>
+			<fontlist>Insomnia</fontlist>
+		</fontset>
+		<fontset>
+			<name>Inspector 39</name>
+			<fontlist>Inspector 39</fontlist>
+		</fontset>
+		<fontset>
+			<name>Institution</name>
+			<fontlist>Institution</fontlist>
+		</fontset>
+		<fontset>
+			<name>Interdimensional</name>
+			<fontlist>Interdimensional</fontlist>
+		</fontset>
+		<fontset>
+			<name>Interplanetary Crap</name>
+			<fontlist>Interplanetary Crap</fontlist>
+		</fontset>
+		<fontset>
+			<name>intimacy</name>
+			<fontlist>intimacy</fontlist>
+		</fontset>
+		<fontset>
+			<name>intimacy deux</name>
+			<fontlist>intimacy deux</fontlist>
+		</fontset>
+		<fontset>
+			<name>Intrepid</name>
+			<fontlist>Intrepid</fontlist>
+		</fontset>
+		<fontset>
+			<name>InvisibleKiller</name>
+			<fontlist>InvisibleKiller</fontlist>
+		</fontset>
+		<fontset>
+			<name>IronForgePhont</name>
+			<fontlist>IronForgePhont</fontlist>
+		</fontset>
+		<fontset>
+			<name>IRONGATE</name>
+			<fontlist>IRONGATE</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ironick-Normal</name>
+			<fontlist>Ironick-Normal</fontlist>
+		</fontset>
+		<fontset>
+			<name>IronPipe</name>
+			<fontlist>IronPipe</fontlist>
+		</fontset>
+		<fontset>
+			<name>Isildur High</name>
+			<fontlist>Isildur High</fontlist>
+		</fontset>
+		<fontset>
+			<name>j.d.</name>
+			<fontlist>j.d.</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jabbie Junior</name>
+			<fontlist>Jabbie Junior</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jackson</name>
+			<fontlist>Jackson</fontlist>
+		</fontset>
+		<fontset>
+			<name>JaggaPoint</name>
+			<fontlist>JaggaPoint</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jagged (BRK)</name>
+			<fontlist>Jagged (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jailbird</name>
+			<fontlist>Jailbird</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jangly Bounce</name>
+			<fontlist>Jangly Bounce</fontlist>
+		</fontset>
+		<fontset>
+			<name>Janine's Writing</name>
+			<fontlist>Janine's Writing</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jannisaries</name>
+			<fontlist>Jannisaries</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jasper (BRK)</name>
+			<fontlist>Jasper (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jasper Solid (BRK)</name>
+			<fontlist>Jasper Solid (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jaunty</name>
+			<fontlist>Jaunty</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jellybean</name>
+			<fontlist>Jellybean</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jenice</name>
+			<fontlist>Jenice</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jessescript</name>
+			<fontlist>Jessescript</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jet Plane</name>
+			<fontlist>Jet Plane</fontlist>
+		</fontset>
+		<fontset>
+			<name>JetPak</name>
+			<fontlist>JetPak</fontlist>
+		</fontset>
+		<fontset>
+			<name>JHUF</name>
+			<fontlist>JHUF</fontlist>
+		</fontset>
+		<fontset>
+			<name>JiggeryPokery</name>
+			<fontlist>JiggeryPokery</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jigsaw Trouserdrop</name>
+			<fontlist>Jigsaw Trouserdrop</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jinx</name>
+			<fontlist>Jinx</fontlist>
+		</fontset>
+		<fontset>
+			<name>John 315</name>
+			<fontlist>John 315</fontlist>
+		</fontset>
+		<fontset>
+			<name>Johnny Fever</name>
+			<fontlist>Johnny Fever</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jokerman</name>
+			<fontlist>Jokerman</fontlist>
+		</fontset>
+		<fontset>
+			<name>JOPPATOWNE</name>
+			<fontlist>JOPPATOWNE</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jotterscript</name>
+			<fontlist>Jotterscript</fontlist>
+		</fontset>
+		<fontset>
+			<name>Joy Circuit</name>
+			<fontlist>Joy Circuit</fontlist>
+		</fontset>
+		<fontset>
+			<name>JoyCards</name>
+			<fontlist>JoyCards</fontlist>
+		</fontset>
+		<fontset>
+			<name>Joystix</name>
+			<fontlist>Joystix</fontlist>
+		</fontset>
+		<fontset>
+			<name>JSL Ancient</name>
+			<fontlist>JSL Ancient</fontlist>
+		</fontset>
+		<fontset>
+			<name>Judge</name>
+			<fontlist>Judge</fontlist>
+		</fontset>
+		<fontset>
+			<name>Juggernaut</name>
+			<fontlist>Juggernaut</fontlist>
+		</fontset>
+		<fontset>
+			<name>julesgirltalk</name>
+			<fontlist>julesgirltalk</fontlist>
+		</fontset>
+		<fontset>
+			<name>JUNGLE GYM</name>
+			<fontlist>JUNGLE GYM</fontlist>
+		</fontset>
+		<fontset>
+			<name>JungleLeaves</name>
+			<fontlist>JungleLeaves</fontlist>
+		</fontset>
+		<fontset>
+			<name>JustAnotherFont</name>
+			<fontlist>JustAnotherFont</fontlist>
+		</fontset>
+		<fontset>
+			<name>Justov</name>
+			<fontlist>Justov</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Juggernaut</name>
+			<fontlist>SF Juggernaut</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Juggernaut Condensed</name>
+			<fontlist>SF Juggernaut Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>Shredded</name>
+			<fontlist>Shredded</fontlist>
+		</fontset>
+		<fontset>
+			<name>04b_20</name>
+			<fontlist>04b_20</fontlist>
+		</fontset>
+		<fontset>
+			<name>1980 Portable</name>
+			<fontlist>1980 Portable</fontlist>
+		</fontset>
+		<fontset>
+			<name>2 Prong Tree</name>
+			<fontlist>2 Prong Tree</fontlist>
+		</fontset>
+		<fontset>
+			<name>4YEOhalloween</name>
+			<fontlist>4YEOhalloween</fontlist>
+		</fontset>
+		<fontset>
+			<name>4YEOstamp</name>
+			<fontlist>4YEOstamp</fontlist>
+		</fontset>
+		<fontset>
+			<name>6809chargen</name>
+			<fontlist>6809chargen</fontlist>
+		</fontset>
+		<fontset>
+			<name>711 Slurpie</name>
+			<fontlist>711 Slurpie</fontlist>
+		</fontset>
+		<fontset>
+			<name>AbrazoScriptSSi</name>
+			<fontlist>AbrazoScriptSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>AcademiaSSi</name>
+			<fontlist>AcademiaSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>AdageDisplayCapsSSi</name>
+			<fontlist>AdageDisplayCapsSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>AderaDisplaySSi</name>
+			<fontlist>AderaDisplaySSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>AdvisorSSi</name>
+			<fontlist>AdvisorSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>AeroDisplaySSi</name>
+			<fontlist>AeroDisplaySSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>AeternaCapsSSi</name>
+			<fontlist>AeternaCapsSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>Ahnberg</name>
+			<fontlist>Ahnberg</fontlist>
+		</fontset>
+		<fontset>
+			<name>AirfoilScriptSSi</name>
+			<fontlist>AirfoilScriptSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>Angioma AOE</name>
+			<fontlist>Angioma AOE</fontlist>
+		</fontset>
+		<fontset>
+			<name>AnticlaireDisplaySSi</name>
+			<fontlist>AnticlaireDisplaySSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>AprilleDisplayCapsSSi</name>
+			<fontlist>AprilleDisplayCapsSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>ArabescoScriptSSi</name>
+			<fontlist>ArabescoScriptSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>ArgotDisplayCapsSSi</name>
+			<fontlist>ArgotDisplayCapsSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>ArtDecoSSi</name>
+			<fontlist>ArtDecoSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>AxiomaticSSi</name>
+			<fontlist>AxiomaticSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>Baby Face</name>
+			<fontlist>Baby Face</fontlist>
+		</fontset>
+		<fontset>
+			<name>BadCargo</name>
+			<fontlist>BadCargo</fontlist>
+		</fontset>
+		<fontset>
+			<name>Badgery</name>
+			<fontlist>Badgery</fontlist>
+		</fontset>
+		<fontset>
+			<name>BaguetDisplayCapsSSi</name>
+			<fontlist>BaguetDisplayCapsSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>BallistaDisplayScriptSSi</name>
+			<fontlist>BallistaDisplayScriptSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>BauderieScriptSSi</name>
+			<fontlist>BauderieScriptSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>BazoukLightSSi</name>
+			<fontlist>BazoukLightSSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>BlackTieDisplaySSi</name>
+			<fontlist>BlackTieDisplaySSi</fontlist>
+		</fontset>
+		<fontset>
+			<name>Boldly Go</name>
+			<fontlist>Boldly Go</fontlist>
+		</fontset>
+		<fontset>
+			<name>Boldly Go Out</name>
+			<fontlist>Boldly Go Out</fontlist>
+		</fontset>
+		<fontset>
+			<name>Braille</name>
+			<fontlist>Braille</fontlist>
+		</fontset>
+		<fontset>
+			<name>Dream Orphans</name>
+			<fontlist>Dream Orphans</fontlist>
+		</fontset>
+		<fontset>
+			<name>Endless Showroom</name>
+			<fontlist>Endless Showroom</fontlist>
+		</fontset>
+		<fontset>
+			<name>Galathea</name>
+			<fontlist>Galathea</fontlist>
+		</fontset>
+		<fontset>
+			<name>Helvetica</name>
+			<fontlist>Helvetica</fontlist>
+		</fontset>
+		<fontset>
+			<name>Spacedock</name>
+			<fontlist>Spacedock</fontlist>
+		</fontset>
+		<fontset>
+			<name>Belphebe</name>
+			<fontlist>Belphebe</fontlist>
+		</fontset>
+		<fontset>
+			<name>Black Wolf</name>
+			<fontlist>Black Wolf</fontlist>
+		</fontset>
+		<fontset>
+			<name>Blox (BRK)</name>
+			<fontlist>Blox (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Captain Podd</name>
+			<fontlist>Captain Podd</fontlist>
+		</fontset>
+		<fontset>
+			<name>Chickabiddies</name>
+			<fontlist>Chickabiddies</fontlist>
+		</fontset>
+		<fontset>
+			<name>FontLogic</name>
+			<fontlist>FontLogic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Hijinx</name>
+			<fontlist>Hijinx</fontlist>
+		</fontset>
+		<fontset>
+			<name>Inspiration</name>
+			<fontlist>Inspiration</fontlist>
+		</fontset>
+		<fontset>
+			<name>MammaGamma</name>
+			<fontlist>MammaGamma</fontlist>
+		</fontset>
+		<fontset>
+			<name>MetroDF</name>
+			<fontlist>MetroDF</fontlist>
+		</fontset>
+		<fontset>
+			<name>Metroplex</name>
+			<fontlist>Metroplex</fontlist>
+		</fontset>
+		<fontset>
+			<name>Mississauga</name>
+			<fontlist>Mississauga</fontlist>
+		</fontset>
+		<fontset>
+			<name>Moloky</name>
+			<fontlist>Moloky</fontlist>
+		</fontset>
+		<fontset>
+			<name>Night Sky</name>
+			<fontlist>Night Sky</fontlist>
+		</fontset>
+		<fontset>
+			<name>The Kids</name>
+			<fontlist>The Kids</fontlist>
+		</fontset>
+		<fontset>
+			<name>Typewriter</name>
+			<fontlist>Typewriter</fontlist>
+		</fontset>
+		<fontset>
+			<name>A Yummy Apology</name>
+			<fontlist>A Yummy Apology</fontlist>
+		</fontset>
+		<fontset>
+			<name>A.Lewis</name>
+			<fontlist>A.Lewis</fontlist>
+		</fontset>
+		<fontset>
+			<name>Baphomet™</name>
+			<fontlist>Baphomet™</fontlist>
+		</fontset>
+		<fontset>
+			<name>Block Out</name>
+			<fontlist>Block Out</fontlist>
+		</fontset>
+		<fontset>
+			<name>CType AOE</name>
+			<fontlist>CType AOE</fontlist>
+		</fontset>
+		<fontset>
+			<name>Detonate BRK</name>
+			<fontlist>Detonate BRK</fontlist>
+		</fontset>
+		<fontset>
+			<name>Diskoteque</name>
+			<fontlist>Diskoteque</fontlist>
+		</fontset>
+		<fontset>
+			<name>GearBox</name>
+			<fontlist>GearBox</fontlist>
+		</fontset>
+		<fontset>
+			<name>GoodDog Bones</name>
+			<fontlist>GoodDog Bones</fontlist>
+		</fontset>
+		<fontset>
+			<name>GoodDog Cool</name>
+			<fontlist>GoodDog Cool</fontlist>
+		</fontset>
+		<fontset>
+			<name>Jungle</name>
+			<fontlist>Jungle</fontlist>
+		</fontset>
+		<fontset>
+			<name>Kefka</name>
+			<fontlist>Kefka</fontlist>
+		</fontset>
+		<fontset>
+			<name>Machiavelli</name>
+			<fontlist>Machiavelli</fontlist>
+		</fontset>
+		<fontset>
+			<name>MK Zodnig Square</name>
+			<fontlist>MK Zodnig Square</fontlist>
+		</fontset>
+		<fontset>
+			<name>Nasalization</name>
+			<fontlist>Nasalization</fontlist>
+		</fontset>
+		<fontset>
+			<name>Pixel</name>
+			<fontlist>Pixel</fontlist>
+		</fontset>
+		<fontset>
+			<name>Scarecrow</name>
+			<fontlist>Scarecrow</fontlist>
+		</fontset>
+		<fontset>
+			<name>SpillMilk</name>
+			<fontlist>SpillMilk</fontlist>
+		</fontset>
+		<fontset>
+			<name>Sucaba</name>
+			<fontlist>Sucaba</fontlist>
+		</fontset>
+		<fontset>
+			<name>techno overload (BRK)</name>
+			<fontlist>techno overload (BRK)</fontlist>
+		</fontset>
+		<fontset>
+			<name>Thorn</name>
+			<fontlist>Thorn</fontlist>
+		</fontset>
+		<fontset>
+			<name>ticker</name>
+			<fontlist>ticker</fontlist>
+		</fontset>
+		<fontset>
+			<name>tusch</name>
+			<fontlist>tusch</fontlist>
+		</fontset>
+		<fontset>
+			<name>Xenotron</name>
+			<fontlist>Xenotron</fontlist>
+		</fontset>
+		<fontset>
+			<name>Neurochrome</name>
+			<fontlist>Neurochrome</fontlist>
+		</fontset>
+		<fontset>
+			<name>Super Fine P</name>
+			<fontlist>Super Fine P</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Chrome Fenders</name>
+			<fontlist>SF Chrome Fenders</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Chrome Fenders Condensed</name>
+			<fontlist>SF Chrome Fenders Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Chrome Fenders Extended</name>
+			<fontlist>SF Chrome Fenders Extended</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Cosmic Age</name>
+			<fontlist>SF Cosmic Age</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Cosmic Age Condensed</name>
+			<fontlist>SF Cosmic Age Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Cosmic Age Outline</name>
+			<fontlist>SF Cosmic Age Outline</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Digital Readout</name>
+			<fontlist>SF Digital Readout</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Espresso Shack</name>
+			<fontlist>SF Espresso Shack</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Espresso Shack Condensed</name>
+			<fontlist>SF Espresso Shack Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Grandezza</name>
+			<fontlist>SF Grandezza</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Iron Gothic</name>
+			<fontlist>SF Iron Gothic</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Iron Gothic Extended</name>
+			<fontlist>SF Iron Gothic Extended</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Iron Gothic Shaded</name>
+			<fontlist>SF Iron Gothic Shaded</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Orson Casual Heavy</name>
+			<fontlist>SF Orson Casual Heavy</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Orson Casual Light</name>
+			<fontlist>SF Orson Casual Light</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Orson Casual Medium</name>
+			<fontlist>SF Orson Casual Medium</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Orson Casual Shaded</name>
+			<fontlist>SF Orson Casual Shaded</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Pixelate</name>
+			<fontlist>SF Pixelate</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Pixelate Shaded</name>
+			<fontlist>SF Pixelate Shaded</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Planetary Orbiter</name>
+			<fontlist>SF Planetary Orbiter</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Planetary Orbiter Outline</name>
+			<fontlist>SF Planetary Orbiter Outline</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Quartzite</name>
+			<fontlist>SF Quartzite</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Quartzite Extended</name>
+			<fontlist>SF Quartzite Extended</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Quartzite Shaded</name>
+			<fontlist>SF Quartzite Shaded</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Speedwaystar</name>
+			<fontlist>SF Speedwaystar</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Speedwaystar Condensed</name>
+			<fontlist>SF Speedwaystar Condensed</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Speedwaystar Shaded</name>
+			<fontlist>SF Speedwaystar Shaded</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Telegraphic</name>
+			<fontlist>SF Telegraphic</fontlist>
+		</fontset>
+		<fontset>
+			<name>SF Telegraphic Light</name>
+			<fontlist>SF Telegraphic Light</fontlist>
+		</fontset>
+		<fontset>
+			<name>Isadora</name>
+			<fontlist>Isadora</fontlist>
+		</fontset>
+		<fontset>
+			<name>Isadora Bold</name>
+			<fontlist>Isadora Bold</fontlist>
+		</fontset>
+		<fontset>
+			<name>Isadora Bold Leftie</name>
+			<fontlist>Isadora Bold Leftie</fontlist>
+		</fontset>
+		<fontset>
+			<name>Isadora Italic</name>
+			<fontlist>Isadora Italic</fontlist>
+		</fontset>
+		<fontset>
+			<name>Isadora Leftie</name>
+			<fontlist>Isadora Leftie</fontlist>
+		</fontset>
+		<fontset>
+			<name>Wellsley</name>
+			<fontlist>Wellsley</fontlist>
+		</fontset>
+	</fontsets>
+</rhpml>
